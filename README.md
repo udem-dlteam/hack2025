@@ -34,6 +34,11 @@
 
 ## Système de pointage
 
+<p align="center" font-size="2em">
+ <h1 align="center"><a href="https://docs.google.com/spreadsheets/d/1ohQgwI8QG8xOmhwN5UQtOV58jus0snhLu0yvMwwDQyw/edit?usp=sharing">🏆 LEADERBOARD EN TEMPS RÉEL 🏆</a></h1>
+</p>
+
+
 ![](./Hackathon2025.png)
 
 Toute tentative de tricherie entrainera la disqualification de l'équipe. Si vous
