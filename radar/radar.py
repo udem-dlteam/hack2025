@@ -303,6 +303,9 @@ def cli():
     if not mps:
         default_mpservers = []
 
+    init_observed_sims()
+    init_observed_mpservers()
+
     if args.mpserver is not None:
         for address in args.mpserver:
             observe_mpserver(address)
@@ -315,11 +318,10 @@ def cli():
             if len(parts) == 2:
                 observe_sim(file)
             else:
-                file = os.path.join(os.path.dirname(__file__), "..", "parcours", file, file + ".csv")
+                file = os.path.join(
+                    os.path.dirname(__file__), "..", "parcours", file, file + ".csv"
+                )
                 flight_path = read_path_file(file)
-
-    init_observed_sims()
-    init_observed_mpservers()
 
     main()
 
