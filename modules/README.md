@@ -20,7 +20,7 @@ réussi!).
 
 ## Module `geodetic.py`
 
-Fait des calcul de position sur la terre en utilisant. Une position est représentée
+Fait des calcul de position sur la terre. Une position est représentée
 par la classe `Location` qui contient le trio latitude/longitude/altitude.
 Des fonctions de ce module permettent de calculer la distance entre deux `Location`
 ainsi que la direction (bearing) d'un `Location` par rapport à une autre `Location`.
