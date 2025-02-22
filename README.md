@@ -99,7 +99,7 @@ Ce [dépôt](https://github.com/julianneswinoga/flightgear-python/blob/master/fl
 
 
 ## Connexion à FlightGear via code
-* Installer [Chisel](https://github.com/jpillora/chisel/releases/tag/v1.10.10)
+* Installer [Chisel](https://github.com/jpillora/chisel/releases/tag/v1.10.1)
 * Exécutez la commande suivante pour vous connecter a FlightGear :
 ```bash
 chisel client -auth "<user>:<pass>" blgXX.iro.umontreal.ca:8000 127.0.0.1:5501:127.0.0.1:5501/udp 127.0.0.1:5503:127.0.0.1:5503/udp 127.0.0.1:5454:127.0.0.1:5454/tcp 127.0.0.1:8080:127.0.0.1:8080 R:127.0.0.1:5502:127.0.0.1:5502/udp R:127.0.0.1:5504:127.0.0.1:5504/udp
