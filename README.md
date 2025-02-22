@@ -34,11 +34,6 @@
 
 ## Système de pointage
 
-<p align="center" font-size="2em">
- <h1 align="center"><a href="https://docs.google.com/spreadsheets/d/1ohQgwI8QG8xOmhwN5UQtOV58jus0snhLu0yvMwwDQyw/edit?usp=sharing">🏆 LEADERBOARD EN TEMPS RÉEL 🏆</a></h1>
-</p>
-
-
 ![](./Hackathon2025.png)
 
 Toute tentative de tricherie entrainera la disqualification de l'équipe. Si vous
@@ -101,3 +96,15 @@ Les flags qui seront d'intérêt pour vous, dans ce hackathon, sont les suivants
 L'état de FlightGear peut etre consulté via le [**PropertyTree**](https://wiki.flightgear.org/Property_Tree/Explained)
 
 Ce [dépôt](https://github.com/julianneswinoga/flightgear-python/blob/master/flightgear_python) fournit de bons wrappers Python pour interagir avec FlightGear ! !!
+
+
+## Connexion à FlightGear via code
+* Installer [Chisel](https://github.com/jpillora/chisel/releases/tag/v1.10.10)
+* Exécutez la commande suivante pour vous connecter a FlightGear :
+```bash
+chisel client -auth "<user>:<pass>" blgXX.iro.umontreal.ca:8000 127.0.0.1:5501:127.0.0.1:5501/udp 127.0.0.1:5503:127.0.0.1:5503/udp 127.0.0.1:5454:127.0.0.1:5454/tcp 127.0.0.1:8080:127.0.0.1:8080 R:127.0.0.1:5502:127.0.0.1:5502/udp R:127.0.0.1:5504:127.0.0.1:5504/udp
+```
+* Exécutez la commande suivante pour vérifier
+```bash
+python modules/FG_example.py
+```
