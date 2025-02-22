@@ -10,6 +10,8 @@
 
 - Moonlight : https://github.com/moonlight-stream/moonlight-qt/releases
 
+- Fichiers `.kml` : https://earth.google.com
+
 - Longitude/Latitude : https://en.wikipedia.org/wiki/Geographic_coordinate_system
 
 - PID : https://www.youtube.com/watch?v=fv6dLTEvl74
