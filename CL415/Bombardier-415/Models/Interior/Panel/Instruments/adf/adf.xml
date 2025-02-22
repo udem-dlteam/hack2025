@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>adf.ac</path>
+
+  <animation>
+    <object-name>fond</object-name>
+    <object-name>HDGface</object-name>
+    <object-name>NAV1pointer</object-name>
+    <object-name>NAV2pointer</object-name>
+    <object-name>CRSneedle</object-name>
+    <object-name>CRSneedle2</object-name>
+    <object-name>FromFlag</object-name>
+    <object-name>ToFlag</object-name>
+    <object-name>hdgbug</object-name>
+    <object-name>Warrow</object-name>
+
+    <object-name>vitre</object-name>
+  </animation>
+
+  <!-- working for Rembrandt -->
+  <effect>
+    <inherits-from>Aircraft/Bombardier-415/Models/Effects/Glass/glass</inherits-from>
+    <object-name>vitre</object-name>
+  </effect>
+  
+  <animation>
+    <type>material</type>
+    <object-name>HDGface</object-name>
+    <object-name>NAV1pointer</object-name>
+    <object-name>NAV2pointer</object-name>
+    <object-name>CRSneedle</object-name>
+    <object-name>CRSneedle2</object-name>
+    <object-name>FromFlag</object-name>
+    <object-name>ToFlag</object-name>
+    <object-name>hdgbug</object-name>
+    <object-name>Warrow</object-name>
+    <emission>
+      <factor-prop>systems/electrical/outputs/instrument-lights</factor-prop>
+      <red>   0.50 </red>
+      <green> 0.25 </green>
+      <blue>  0.25 </blue>
+    </emission>
+  </animation>
+
+  <animation>
+    <type>texrotate</type>
+    <object-name>HDGface</object-name>
+    <property>orientation/heading-magnetic-deg</property>
+    <center>
+      <x> 0.25 </x>
+      <y> 0.25 </y>
+      <z> 0.00 </z>
+    </center>
+    <axis>
+      <x>  0 </x>
+      <y>  0 </y>
+      <z> -1 </z>
+    </axis>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>hdgbug</object-name>
+    <property>autopilot/internal/fdm-heading-bug-error-deg</property>
+    <axis>
+      <x> -1 </x>
+      <y>  0 </y>
+      <z>  0 </z>
+    </axis>
+  </animation>
+ 
+  <animation>
+    <type>rotate</type>
+    <object-name>CRSneedle</object-name>
+    <object-name>CRSneedle2</object-name>
+    <object-name>ToFlag</object-name>
+    <object-name>FromFlag</object-name>
+    <property>orientation/heading-magnetic-deg</property>
+    <axis>
+      <x> 1 </x>
+      <y> 0 </y>
+      <z> 0 </z>
+    </axis>
+  </animation>
+ 
+  <animation>
+    <type>rotate</type>
+    <object-name>CRSneedle</object-name>
+    <object-name>CRSneedle2</object-name>
+    <object-name>ToFlag</object-name>
+    <object-name>FromFlag</object-name>
+    <property>instrumentation/nav/radials/selected-deg</property>
+    <axis>
+      <x> -1 </x>
+      <y>  0 </y>
+      <z>  0 </z>
+    </axis>
+  </animation>
+ 
+  <animation>
+    <type>translate</type>
+    <object-name>CRSneedle2</object-name>
+    <property>instrumentation/nav/heading-needle-deflection</property>
+    <interpolation>
+      <entry><ind> -10 </ind><dep> -0.0148 </dep></entry>
+      <entry><ind>   0 </ind><dep>  0.0000 </dep></entry>
+      <entry><ind>  10 </ind><dep>  0.0148 </dep></entry>
+    </interpolation>
+    <axis>
+      <x> 0 </x>
+      <y> 1 </y>
+      <z> 0 </z>
+    </axis>
+  </animation>
+ 
+  <animation>
+    <type>rotate</type>
+    <object-name>NAV1pointer</object-name>
+    <property>instrumentation/primus1000/dc550/nav1ptr-hdg-offset</property>
+    <axis>
+      <x> -1 </x>
+      <y>  0 </y>
+      <z>  0 </z>
+    </axis>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>NAV2pointer</object-name>
+    <property>instrumentation/primus1000/dc550/nav2ptr-hdg-offset</property>
+    <axis>
+      <x> -1 </x>
+      <y>  0 </y>
+      <z>  0 </z>
+    </axis>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>Warrow</object-name>
+    <property>orientation/heading-deg</property>
+    <axis>
+      <x> 1 </x>
+      <y> 0 </y>
+      <z> 0 </z>
+    </axis>
+    <center>
+      <x-m>  0.002 </x-m>
+      <y-m> -0.038 </y-m>
+      <z-m> -0.036 </z-m>
+    </center>
+  </animation>
+ 
+  <animation>
+    <type>rotate</type>
+    <object-name>Warrow</object-name>
+    <property>environment/wind-from-heading-deg</property>
+    <axis>
+      <x> -1 </x>
+      <y>  0 </y>
+      <z> -0 </z>
+    </axis>
+    <center>
+      <x-m>  0.002 </x-m>
+      <y-m> -0.038 </y-m>
+      <z-m> -0.036 </z-m>
+    </center>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>FromFlag</object-name>
+    <condition>
+      <and>
+        <equals>
+          <property>instrumentation/nav/from-flag</property>
+          <value>true</value>
+        </equals>
+        <equals>
+          <property>instrumentation/nav/nav-loc</property>
+          <value>false</value>
+        </equals>
+      </and>
+    </condition>
+  </animation>
+ 
+  <animation>
+    <type>select</type>
+    <object-name>ToFlag</object-name>
+    <condition>
+      <and>
+        <equals>
+          <property>instrumentation/nav/to-flag</property>
+          <value>true</value>
+        </equals>
+        <equals>
+          <property>instrumentation/nav/nav-loc</property>
+          <value>false</value>
+        </equals>
+      </and>
+    </condition>
+  </animation>
+ 
+  <animation>
+    <type>select</type>
+    <object-name>NAV1pointer</object-name>
+    <condition>
+      <greater-than>
+        <property>instrumentation/primus1000/dc550/nav1ptr</property>
+        <value>0</value>
+      </greater-than>
+    </condition>
+  </animation>
+ 
+  <animation>
+    <type>select</type>
+    <object-name>NAV2pointer</object-name>
+    <condition>
+      <greater-than>
+        <property>instrumentation/primus1000/dc550/nav2ptr</property>
+        <value>0</value>
+      </greater-than>
+    </condition>
+  </animation>
+
+</PropertyList>

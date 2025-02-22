@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+  
+  <keyboard>
+    
+    <key n="100">
+      <name>d</name>
+      <desc>Doors</desc>
+      <binding>
+        <command>nasal</command>
+        <script>doors.porteA.toggle();</script>
+      </binding>
+    </key>
+    
+    <key n="68">
+      <name>D</name>
+      <desc>Cargo</desc>
+      <binding>
+        <command>nasal</command>
+        <script>doors.porteB.toggle();</script>
+      </binding>
+    </key>
+    
+    <key n="68">
+      <name>D</name>
+      <desc>Cargo</desc>
+      <binding>
+        <command>nasal</command>
+        <script>doors.porteC.toggle();</script>
+      </binding>
+    </key>
+    
+    <key n="119">
+      <name>w</name>
+      <desc>Ecopes</desc>
+      <binding>
+        <command>nasal</command>
+        <script>doors.ecopes.toggle();</script>
+      </binding>
+    </key>
+    
+    <key n="87">
+      <name>W</name>
+      <desc>Water doors</desc>
+      <binding>
+        <command>nasal</command>
+        <script>doors.water.toggle();</script>
+      </binding>
+    </key>
+    
+    <key n="101">
+      <name>e</name>
+      <desc>water</desc>
+      <binding>
+        <command>nasal</command>
+        <script>water.Wstart()</script>
+      </binding>
+      <mod-up>
+        <binding>
+          <command>nasal</command>
+          <script>water.Wstop()</script>
+        </binding>
+      </mod-up>
+    </key>
+    
+  </keyboard>
+  
+</PropertyList>

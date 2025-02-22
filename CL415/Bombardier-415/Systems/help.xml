@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+  
+  <title>Bombardier 415</title>
+  <line>______________________________________________</line>
+  <!--
+  <key>
+    <name>d</name>
+    <desc>Open/Close crew door</desc>
+  </key>
+  <key>
+    <name>D</name>
+    <desc>Open/Close water doors</desc>
+  </key>
+  -->
+  <key>
+    <name>w</name>
+    <desc>down/up ecopes</desc>
+  </key>
+  <key>
+    <name>W</name>
+    <desc>down/up water doors</desc>
+  </key>
+  
+</PropertyList>

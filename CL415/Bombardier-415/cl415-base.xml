@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <sim include="Systems/views.xml">
+
+    <description>Bombardier 415 (YASim)</description>
+    <author>BARANGER Emmanuel (3D/FDM)</author>
+    <aircraft-version>0.2</aircraft-version>
+    <status>Alpha</status>
+   
+    <fuel-fraction>1.0</fuel-fraction>
+  
+    <startup>
+      <splash-texture>Aircraft/Bombardier-415/cl415-splash.png</splash-texture>
+    </startup>
+
+    <sound>
+      <path>Aircraft/Bombardier-415/Sounds/cl415-sound.xml</path>
+    </sound>
+
+    <model>
+      <path>Aircraft/Bombardier-415/Models/cl415.xml</path>
+      <livery>
+        <file type="string">default</file>
+      </livery>
+    </model> 
+
+    <multiplay>
+      <chat_display>1</chat_display>
+      <generic> 
+        <int type="int" n="0">  0 </int>                                           <!--  0 immat -->
+        <int type="int" n="1">  0 </int>                                           <!--  1 immat -->
+        <int type="int" n="2">  0 </int>                                           <!--  2 immat -->
+        <int type="int" n="3">  0 </int>                                           <!--  3 immat -->
+        <int type="int" n="4">  0 </int>                                           <!--  4 immat -->
+        <int type="int" n="5">  0 </int>                                           <!--  5 immat -->
+        <int type="bool" n="6"> 1 </int>                                           <!-- 6 smoke/bomb/torpedo -->
+        <int type="int" n="7">  0 </int>                                           <!-- 7 color -->
+        <int n="8" alias="/systems/electrical/outputs/nav-lights">0</int>          <!-- 8 nav-lights -->
+        <int n="9" alias="/sim/model/lights/beacon/state">false</int>              <!-- 9 strobe-lights -->
+        <float n="0"  alias="/sim/model/door-positions/crew/position-norm"/>
+        <float n="1"  alias="/sim/model/door-positions/passenger/position-norm"/>  
+        <float n="2"  alias="/position/gear-agl-m">0</float>                        <!-- 11 altitude for MP shadow -->
+        <float n="3"  alias="/position/altitude-ft">0</float>                       <!-- 11 altitude for MP shadow -->
+        <float n="4"  alias="/engines/engine[0]/n2"/>
+        <float n="5"  alias="/engines/engine[1]/n2"/>
+        <float n="6"  alias="/controls/engines/engine[0]/throttle"/>
+        <float n="7"  alias="/controls/engines/engine[1]/throttle"/>
+        <float n="8"  alias="/gear/gear[0]/wow/"/>
+        <float n="9"  alias="/gear/gear[1]/wow/"/>
+        <float n="10" alias="/gear/gear[2]/wow/"/>
+        <float n="11" alias="/gear/gear[3]/wow/"/>
+        <float n="12" alias="/gear/gear[4]/wow/"/>
+        <float n="13" alias="/gear/gear[5]/wow/"/>
+        <float n="14" alias="/gear/gear[6]/wow/"/>
+        <float n="15" alias="/gear/gear[7]/wow/"/>
+        <float n="16" alias="/gear/gear[0]/rollspeed-ms/"/>
+        <float n="17" alias="/gear/gear[1]/rollspeed-ms/"/>
+        <float n="18" alias="/gear/gear[2]/rollspeed-ms/"/>
+        
+        <!-- For Bombable -->
+        <int type="int" n="10" alias="controls/armament/trigger">0</int>
+        <string n="9" type="string" />
+      </generic>
+    </multiplay>
+
+    <help include="Systems/help.xml"/>
+
+    <menubar include="Dialogs/cl415-menu.xml"/>
+
+  </sim>
+
+  <input include="Systems/cl415-keyboard.xml"/>
+  
+  <controls include="Systems/controls.xml"/>
+
+  <engines include="Systems/engines.xml"/>
+  
+  <nasal>
+    <doors>
+      <file>Aircraft/Bombardier-415/Nasal/doors.nas</file>
+    </doors>
+    <cl415>
+      <file>Aircraft/Bombardier-415/Nasal/liveries.nas</file>
+      <file>Aircraft/Bombardier-415/Nasal/light.nas</file>
+    </cl415>
+    <water>
+      <file>Aircraft/Bombardier-415/Nasal/water.nas</file>
+    </water>
+  </nasal>
+
+</PropertyList>

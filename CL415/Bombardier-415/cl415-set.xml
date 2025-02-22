@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="cl415-base.xml">
+
+  <sim>
+    
+    <description>Bombardier 415 (YASim)</description>
+    <author>BARANGER Emmanuel (3D/FDM)</author>
+    
+    <flight-model>yasim</flight-model>
+    <aero>cl415-yasim</aero>
+
+    <tags>
+      <tag>canadair</tag>
+      <tag>mid-wing</tag>
+      <tag>seaplane</tag>
+      <tag>retractable-gear</tag>
+      <tag>twin-engine</tag>
+      <tag>turboprop</tag>
+      <tag>variable-pitch</tag>
+      <tag>cargo</tag>
+      <tag>1990s</tag>
+      <tag>2000s</tag>
+      <tag>2010s</tag>
+    </tags>
+    
+    <rating>
+      <FDM type="int">     2 </FDM>
+      <systems type="int"> 1 </systems>
+      <cockpit type="int"> 1 </cockpit>
+      <model type="int">   4 </model>
+    </rating>
+
+  </sim>
+
+</PropertyList>

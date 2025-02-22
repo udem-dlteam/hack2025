@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+  
+  <engine>
+    <rpm type="double">700</rpm>
+  </engine>
+  <engine>
+    <rpm type="double">700</rpm>
+  </engine>
+  
+</PropertyList>

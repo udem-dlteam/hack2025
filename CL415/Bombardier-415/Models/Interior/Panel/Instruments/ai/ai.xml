@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>ai.ac</path>
+
+  <animation>
+    <object-name>fond</object-name>
+    <object-name>ai</object-name>
+    <object-name>pointer</object-name>
+    <object-name>airoll</object-name>
+    <object-name>fdbars</object-name>
+    <object-name>rollptr</object-name>
+
+    <object-name>vitre</object-name>
+  </animation>
+
+  <!-- working for Rembrandt -->
+  <effect>
+    <inherits-from>Aircraft/Bombardier-415/Models/Effects/Glass/glass</inherits-from>
+    <object-name>vitre</object-name>
+  </effect>
+  
+  <animation>
+    <type>material</type>
+    <object-name>ai</object-name>
+    <object-name>airoll</object-name>
+    <object-name>pointer</object-name>
+    <object-name>fdbars</object-name>
+    <object-name>rollptr</object-name>
+    <emission>
+      <factor-prop>systems/electrical/outputs/instrument-lights</factor-prop>
+      <red>   0.50 </red>
+      <green> 0.25 </green>
+      <blue>  0.25 </blue>
+    </emission>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>fdbars</object-name>
+    <condition>
+        <equals>
+          <property>/instrumentation/flightdirector/fd-on</property>
+          <value>1</value>
+        </equals>
+    </condition>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>fdbars</object-name>
+    <property>/instrumentation/flightdirector/vbar-roll</property>
+    <axis>
+      <x> 1 </x>
+      <y> 0 </y>
+      <z> 0 </z>
+    </axis>
+  </animation>
+
+  <animation>
+    <type>translate</type>
+    <object-name>fdbars</object-name>
+    <property>/instrumentation/flightdirector/vbar-pitch</property>
+    <factor>0.0014</factor>
+    <axis>
+      <x> 0 </x>
+      <y> 0 </y>
+      <z> 1 </z>
+    </axis>
+  </animation>
+
+  <animation>
+    <type>texmultiple</type>
+    <object-name>ai</object-name>
+    <transform>
+      <property>/orientation/pitch-deg</property>
+      <subtype>textranslate</subtype>
+      <factor>0.00314</factor>
+      <axis>
+        <x> 0 </x>
+        <y> 1 </y>
+        <z> 0 </z>
+      </axis>
+    </transform>
+    <transform>
+      <property>/orientation/roll-deg</property>
+      <subtype>texrotate</subtype>
+      <center>
+        <x> 0.25 </x>
+        <y> 0.50 </y>
+      </center>
+      <axis>
+        <x>  0 </x>
+        <y>  0 </y>
+        <z> -1 </z>
+      </axis>
+    </transform>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>rollptr</object-name>
+    <property>/orientation/roll-deg</property>
+    <axis>
+      <x> 1 </x>
+      <y> 0 </y>
+      <z> 0 </z>
+    </axis>
+  </animation>
+
+</PropertyList>
