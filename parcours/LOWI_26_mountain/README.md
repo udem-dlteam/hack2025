@@ -1,12 +1,5 @@
 # LOWI_26_mountain
 
-### Pointage :
-
-| Conditions    | Cessna 172 | CL415      |
-| :------------ | ---------: | ---------: |
-| Script        |      10000 |      15000 |
-| Humain        |       1000 |       1500 |
-
 Notez que la partie entre l'aeroport et le col de montagne peut se faire avec
 n'importe quel trajet.
 
