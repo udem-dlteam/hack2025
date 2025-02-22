@@ -23,8 +23,12 @@ Fait la vérification avec un parcours spécifique défini par un fichier `.csv`
 
 ## `python3 radar/radar.py --mps`
 
-Affiche les tous les avions pris en charge par le "Multi-Player Server" du Hackathon.
+Affiche tous les avions pris en charge par le "Multi-Player Server" du Hackathon.
 
-## `python3 radar/radar.py une.addresse.internet:5400`
+## `python3 radar/radar.py une.adresse.internet:5400`
 
-Affiche l'avion qui est simulé par FlightGear sur la machine `une.addresse.internet`.
+Affiche l'avion qui est simulé par FlightGear sur la machine `une.adresse.internet`.
+
+## Note
+
+Les options ci-dessus peuvent être combinées.
