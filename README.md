@@ -10,6 +10,8 @@
 
 - Moonlight : https://github.com/moonlight-stream/moonlight-qt/releases
 
+- Longitude/Latitude : https://en.wikipedia.org/wiki/Geographic_coordinate_system
+
 - PID : https://www.youtube.com/watch?v=fv6dLTEvl74
 
 
@@ -28,7 +30,7 @@
 - Environment : Time of day "Noon", Season "Summer"
 
 
-## Système de points
+## Système de pointage
 
 ![](./Hackathon2025.png)
 
