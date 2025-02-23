@@ -1,0 +1,864 @@
+=== Connecting to FlightGear on 127.0.0.1:5454: connected!
+=== Flight plan: LOWI_08_circuit
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.5 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.5 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.5 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.5 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.5 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.5 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 0.10
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.3 pitch= 4.6 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 4.5 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 4.4 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 4.3 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 4.2 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 4.1 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 4.0 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 3.9 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.2 pitch= 3.9 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.1 pitch= 3.8 => rudder= 0.00 elevator= 0.00 aileron= 0.00 throttle= 1.00
+heading=81.0 roll= 0.1 pitch= 4.1 => rudder= 0.05 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.1 pitch= 4.5 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.1 pitch= 4.6 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.1 pitch= 4.7 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.7 roll= 0.1 pitch= 4.7 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.1 pitch= 4.7 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.5 roll= 0.1 pitch= 4.7 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.7 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.7 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.7 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.7 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.5 roll= 0.1 pitch= 4.7 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.1 pitch= 4.7 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.1 pitch= 4.7 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.7 roll= 0.1 pitch= 4.6 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.1 pitch= 4.6 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.7 roll= 0.2 pitch= 4.6 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.2 pitch= 4.6 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.2 pitch= 4.5 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.2 pitch= 4.5 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.7 roll= 0.2 pitch= 4.5 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.5 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.5 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.4 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.4 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.2 pitch= 4.4 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 4.4 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.2 pitch= 4.4 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.5 roll= 0.2 pitch= 4.4 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.2 pitch= 4.4 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.2 pitch= 4.4 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.5 roll= 0.2 pitch= 4.4 => rudder= 0.09 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.7 roll= 0.2 pitch= 4.4 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.1 pitch= 4.3 => rudder= 0.07 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.1 pitch= 4.3 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.1 pitch= 4.3 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.1 pitch= 4.3 => rudder= 0.06 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.7 roll= 0.2 pitch= 4.2 => rudder= 0.08 elevator= 0.00 aileron=-0.00 throttle= 1.00
+heading=80.5 roll= 0.2 pitch= 4.2 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.3 roll= 0.2 pitch= 4.3 => rudder= 0.10 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.2 roll= 0.2 pitch= 4.4 => rudder= 0.10 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.3 roll= 0.2 pitch= 4.4 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.2 pitch= 4.4 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.2 pitch= 4.4 => rudder= 0.07 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.2 pitch= 4.4 => rudder= 0.07 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.6 roll= 0.1 pitch= 4.4 => rudder= 0.08 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.5 roll= 0.1 pitch= 4.4 => rudder= 0.08 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.4 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.3 roll= 0.1 pitch= 4.4 => rudder= 0.10 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.3 roll= 0.1 pitch= 4.4 => rudder= 0.10 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.3 roll= 0.1 pitch= 4.4 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.4 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.3 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.3 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.4 roll= 0.1 pitch= 4.3 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 1.00
+heading=80.4 roll=-0.0 pitch= 4.3 => rudder= 0.09 elevator=-0.05 aileron= 0.00 throttle= 1.00
+heading=80.4 roll=-0.3 pitch= 4.2 => rudder= 0.08 elevator=-0.05 aileron= 0.01 throttle= 1.00
+heading=80.3 roll=-0.8 pitch= 4.3 => rudder= 0.09 elevator=-0.05 aileron= 0.02 throttle= 1.00
+heading=80.1 roll=-1.3 pitch= 4.4 => rudder= 0.10 elevator=-0.05 aileron= 0.03 throttle= 1.00
+heading=79.9 roll=-1.8 pitch= 4.6 => rudder= 0.11 elevator=-0.05 aileron= 0.04 throttle= 1.00
+heading=79.7 roll=-2.1 pitch= 4.7 => rudder= 0.12 elevator=-0.05 aileron= 0.04 throttle= 1.00
+heading=79.6 roll=-2.3 pitch= 4.9 => rudder= 0.13 elevator=-0.05 aileron= 0.05 throttle= 1.00
+heading=79.4 roll=-2.4 pitch= 5.1 => rudder= 0.13 elevator=-0.05 aileron= 0.05 throttle= 1.00
+heading=79.4 roll=-2.4 pitch= 5.4 => rudder= 0.14 elevator=-0.05 aileron= 0.05 throttle= 1.00
+heading=79.4 roll=-2.3 pitch= 5.6 => rudder= 0.15 elevator=-0.05 aileron= 0.05 throttle= 1.00
+heading=79.4 roll=-2.1 pitch= 5.8 => rudder= 0.15 elevator=-0.05 aileron= 0.04 throttle= 1.00
+heading=79.5 roll=-1.8 pitch= 6.1 => rudder= 0.15 elevator=-0.05 aileron= 0.04 throttle= 1.00
+heading=79.7 roll=-1.5 pitch= 6.3 => rudder= 0.15 elevator=-0.05 aileron= 0.03 throttle= 1.00
+heading=79.9 roll=-1.2 pitch= 6.6 => rudder= 0.13 elevator=-0.05 aileron= 0.02 throttle= 1.00
+heading=80.0 roll=-0.9 pitch= 6.8 => rudder= 0.14 elevator=-0.04 aileron= 0.02 throttle= 1.00
+heading=80.1 roll=-0.6 pitch= 6.9 => rudder= 0.15 elevator=-0.04 aileron= 0.01 throttle= 1.00
+heading=80.2 roll=-0.3 pitch= 6.9 => rudder= 0.15 elevator=-0.03 aileron= 0.01 throttle= 1.00
+heading=80.4 roll=-0.2 pitch= 6.9 => rudder= 0.14 elevator=-0.03 aileron= 0.00 throttle= 1.00
+heading=80.6 roll= 0.0 pitch= 6.8 => rudder= 0.14 elevator=-0.02 aileron=-0.00 throttle= 1.00
+heading=80.8 roll= 0.2 pitch= 6.6 => rudder= 0.12 elevator=-0.02 aileron=-0.00 throttle= 1.00
+heading=80.9 roll= 0.4 pitch= 6.5 => rudder= 0.13 elevator=-0.01 aileron=-0.01 throttle= 1.00
+heading=81.0 roll= 0.6 pitch= 6.2 => rudder= 0.13 elevator=-0.01 aileron=-0.01 throttle= 1.00
+heading=81.1 roll= 0.6 pitch= 5.9 => rudder= 0.09 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=81.2 roll= 0.7 pitch= 5.6 => rudder= 0.10 elevator= 0.03 aileron=-0.01 throttle= 0.92
+heading=81.1 roll= 0.6 pitch= 5.0 => rudder= 0.11 elevator=-0.01 aileron=-0.01 throttle= 0.91
+heading=81.0 roll= 0.5 pitch= 4.6 => rudder= 0.13 elevator=-0.04 aileron=-0.01 throttle= 0.91
+heading=81.1 roll= 0.3 pitch= 4.9 => rudder= 0.09 elevator=-0.04 aileron=-0.01 throttle= 1.00
+heading=81.3 roll= 0.2 pitch= 5.3 => rudder= 0.08 elevator=-0.02 aileron=-0.00 throttle= 1.00
+heading=81.4 roll= 0.3 pitch= 5.3 => rudder= 0.09 elevator=-0.03 aileron=-0.01 throttle= 1.00
+heading=81.4 roll= 0.3 pitch= 5.2 => rudder= 0.06 elevator=-0.04 aileron=-0.01 throttle= 1.00
+heading=81.3 roll= 0.2 pitch= 5.5 => rudder= 0.07 elevator=-0.04 aileron=-0.00 throttle= 1.00
+heading=81.1 roll= 0.0 pitch= 5.8 => rudder= 0.09 elevator=-0.03 aileron=-0.00 throttle= 1.00
+heading=80.9 roll=-0.2 pitch= 5.9 => rudder= 0.10 elevator=-0.03 aileron= 0.00 throttle= 1.00
+heading=80.9 roll=-0.5 pitch= 5.9 => rudder= 0.08 elevator=-0.04 aileron= 0.01 throttle= 1.00
+heading=81.0 roll=-0.6 pitch= 6.1 => rudder= 0.07 elevator=-0.04 aileron= 0.01 throttle= 1.00
+heading=81.1 roll=-0.6 pitch= 6.3 => rudder= 0.07 elevator=-0.03 aileron= 0.01 throttle= 1.00
+heading=81.1 roll=-0.6 pitch= 6.4 => rudder= 0.06 elevator=-0.03 aileron= 0.01 throttle= 1.00
+heading=81.0 roll=-0.6 pitch= 6.6 => rudder= 0.06 elevator=-0.03 aileron= 0.01 throttle= 1.00
+heading=80.8 roll=-0.6 pitch= 6.7 => rudder= 0.07 elevator=-0.03 aileron= 0.01 throttle= 1.00
+heading=80.7 roll=-0.8 pitch= 6.9 => rudder= 0.08 elevator=-0.03 aileron= 0.02 throttle= 1.00
+heading=80.7 roll=-0.9 pitch= 7.0 => rudder= 0.07 elevator=-0.03 aileron= 0.02 throttle= 1.00
+heading=80.7 roll=-1.0 pitch= 7.2 => rudder= 0.07 elevator=-0.02 aileron= 0.02 throttle= 1.00
+heading=80.8 roll=-0.9 pitch= 7.3 => rudder= 0.07 elevator=-0.02 aileron= 0.02 throttle= 1.00
+heading=80.8 roll=-0.8 pitch= 7.4 => rudder= 0.06 elevator=-0.02 aileron= 0.02 throttle= 1.00
+heading=80.7 roll=-0.8 pitch= 7.5 => rudder= 0.06 elevator=-0.02 aileron= 0.02 throttle= 1.00
+heading=80.6 roll=-0.7 pitch= 7.6 => rudder= 0.07 elevator=-0.02 aileron= 0.01 throttle= 1.00
+heading=80.5 roll=-0.8 pitch= 7.7 => rudder= 0.16 elevator=-0.02 aileron= 0.02 throttle= 1.00
+heading=80.7 roll=-0.9 pitch= 7.8 => rudder= 0.16 elevator=-0.01 aileron= 0.02 throttle= 1.00
+heading=81.3 roll=-0.7 pitch= 7.9 => rudder= 0.13 elevator=-0.01 aileron= 0.01 throttle= 1.00
+heading=82.2 roll=-0.2 pitch= 8.0 => rudder= 0.09 elevator=-0.01 aileron= 0.00 throttle= 1.00
+heading=82.7 roll= 0.7 pitch= 8.1 => rudder= 0.07 elevator=-0.01 aileron=-0.01 throttle= 1.00
+heading=82.9 roll= 1.4 pitch= 8.1 => rudder= 0.07 elevator=-0.01 aileron=-0.03 throttle= 1.00
+heading=82.6 roll= 1.7 pitch= 8.2 => rudder= 0.25 elevator=-0.01 aileron=-0.03 throttle= 1.00
+heading=82.7 roll= 1.4 pitch= 8.2 => rudder= 0.26 elevator=-0.00 aileron=-0.03 throttle= 1.00
+heading=83.7 roll= 1.3 pitch= 8.3 => rudder= 0.22 elevator=-0.00 aileron=-0.03 throttle= 1.00
+heading=85.2 roll= 1.9 pitch= 8.3 => rudder= 0.16 elevator=-0.00 aileron=-0.04 throttle= 1.00
+heading=86.6 roll= 3.1 pitch= 8.2 => rudder= 0.11 elevator=-0.00 aileron=-0.06 throttle= 1.00
+heading=87.1 roll= 4.3 pitch= 8.2 => rudder= 0.30 elevator=-0.00 aileron=-0.09 throttle= 1.00
+heading=87.4 roll= 4.9 pitch= 8.2 => rudder= 0.31 elevator=-0.00 aileron=-0.10 throttle= 1.00
+heading=88.3 roll= 5.0 pitch= 8.2 => rudder= 0.29 elevator=-0.00 aileron=-0.10 throttle= 1.00
+heading=89.8 roll= 5.4 pitch= 8.1 => rudder= 0.24 elevator=-0.00 aileron=-0.11 throttle= 1.00
+heading=91.2 roll= 6.2 pitch= 8.0 => rudder= 0.19 elevator=-0.00 aileron=-0.12 throttle= 1.00
+heading=92.0 roll= 7.1 pitch= 7.9 => rudder= 0.40 elevator=-0.00 aileron=-0.14 throttle= 1.00
+heading=92.8 roll= 7.5 pitch= 7.9 => rudder= 0.40 elevator=-0.00 aileron=-0.15 throttle= 1.00
+heading=94.5 roll= 7.7 pitch= 7.8 => rudder= 0.35 elevator=-0.00 aileron=-0.15 throttle= 1.00
+heading=96.4 roll= 8.5 pitch= 7.6 => rudder= 0.28 elevator=-0.01 aileron=-0.17 throttle= 1.00
+heading=97.9 roll= 9.5 pitch= 7.4 => rudder= 0.24 elevator=-0.01 aileron=-0.19 throttle= 1.00
+heading=98.8 roll= 10.4 pitch= 7.4 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=99.3 roll= 10.5 pitch= 7.4 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=100.6 roll= 10.4 pitch= 7.3 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=102.4 roll= 10.5 pitch= 7.1 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=104.3 roll= 11.0 pitch= 6.9 => rudder= 0.36 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=106.1 roll= 11.9 pitch= 6.7 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=107.4 roll= 12.9 pitch= 6.6 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=108.6 roll= 13.7 pitch= 6.5 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=109.9 roll= 14.5 pitch= 6.4 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=111.3 roll= 15.2 pitch= 6.3 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=112.7 roll= 15.8 pitch= 6.2 => rudder= 0.40 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=114.2 roll= 16.4 pitch= 6.1 => rudder= 0.40 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=115.9 roll= 17.0 pitch= 5.9 => rudder= 0.40 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=117.6 roll= 17.6 pitch= 5.8 => rudder= 0.40 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=119.3 roll= 18.3 pitch= 5.7 => rudder= 0.40 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=121.1 roll= 19.0 pitch= 5.6 => rudder= 0.40 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=123.0 roll= 19.8 pitch= 5.4 => rudder= 0.40 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=124.8 roll= 20.5 pitch= 5.3 => rudder= 0.40 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=126.6 roll= 21.2 pitch= 5.2 => rudder= 0.40 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=128.5 roll= 21.9 pitch= 5.1 => rudder= 0.40 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=130.5 roll= 22.5 pitch= 5.0 => rudder= 0.40 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=132.6 roll= 23.2 pitch= 4.9 => rudder= 0.40 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=134.8 roll= 23.9 pitch= 4.8 => rudder= 0.40 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=137.0 roll= 24.6 pitch= 4.7 => rudder= 0.40 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=139.3 roll= 25.3 pitch= 4.5 => rudder= 0.40 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=141.7 roll= 26.0 pitch= 4.4 => rudder= 0.40 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=144.1 roll= 26.7 pitch= 4.3 => rudder= 0.40 elevator=-0.08 aileron=-0.20 throttle= 1.00
+heading=146.6 roll= 27.5 pitch= 4.1 => rudder= 0.40 elevator=-0.08 aileron=-0.20 throttle= 1.00
+heading=149.3 roll= 28.2 pitch= 4.0 => rudder= 0.37 elevator=-0.08 aileron=-0.20 throttle= 1.00
+heading=151.9 roll= 29.0 pitch= 3.9 => rudder= 0.28 elevator=-0.09 aileron=-0.20 throttle= 1.00
+heading=154.1 roll= 29.7 pitch= 3.9 => rudder= 0.20 elevator=-0.09 aileron=-0.20 throttle= 1.00
+heading=155.9 roll= 30.2 pitch= 4.2 => rudder= 0.27 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=157.3 roll= 30.2 pitch= 4.5 => rudder= 0.23 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=158.8 roll= 29.6 pitch= 4.7 => rudder= 0.17 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=160.3 roll= 28.8 pitch= 4.7 => rudder= 0.12 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=161.7 roll= 27.7 pitch= 4.9 => rudder= 0.06 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=163.0 roll= 26.3 pitch= 5.1 => rudder= 0.09 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=164.2 roll= 24.5 pitch= 5.4 => rudder= 0.04 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=165.4 roll= 22.4 pitch= 5.4 => rudder=-0.01 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=166.5 roll= 20.2 pitch= 5.6 => rudder=-0.06 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=167.3 roll= 17.7 pitch= 5.8 => rudder=-0.10 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=167.8 roll= 15.1 pitch= 6.1 => rudder=-0.06 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=168.0 roll= 11.9 pitch= 6.3 => rudder=-0.07 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=168.3 roll= 8.5 pitch= 6.3 => rudder=-0.09 elevator=-0.03 aileron=-0.17 throttle= 1.00
+heading=168.5 roll= 5.3 pitch= 6.4 => rudder=-0.11 elevator=-0.04 aileron=-0.11 throttle= 1.00
+heading=168.6 roll= 2.7 pitch= 6.7 => rudder=-0.11 elevator=-0.03 aileron=-0.05 throttle= 1.00
+heading=168.1 roll= 0.7 pitch= 6.9 => rudder=-0.10 elevator=-0.03 aileron=-0.01 throttle= 1.00
+heading=167.2 roll=-0.7 pitch= 7.0 => rudder=-0.01 elevator=-0.03 aileron= 0.01 throttle= 1.00
+heading=166.3 roll=-2.1 pitch= 7.1 => rudder= 0.04 elevator=-0.03 aileron= 0.04 throttle= 1.00
+heading=165.8 roll=-3.3 pitch= 7.2 => rudder= 0.06 elevator=-0.02 aileron= 0.07 throttle= 1.00
+heading=165.9 roll=-4.0 pitch= 7.3 => rudder= 0.05 elevator=-0.02 aileron= 0.08 throttle= 1.00
+heading=166.2 roll=-4.0 pitch= 7.4 => rudder= 0.03 elevator=-0.02 aileron= 0.08 throttle= 1.00
+heading=166.5 roll=-3.6 pitch= 7.5 => rudder= 0.06 elevator=-0.02 aileron= 0.07 throttle= 1.00
+heading=166.6 roll=-3.0 pitch= 7.6 => rudder= 0.06 elevator=-0.02 aileron= 0.06 throttle= 1.00
+heading=166.6 roll=-2.4 pitch= 7.7 => rudder= 0.06 elevator=-0.02 aileron= 0.05 throttle= 1.00
+heading=166.6 roll=-2.0 pitch= 7.9 => rudder= 0.06 elevator=-0.02 aileron= 0.04 throttle= 1.00
+heading=166.5 roll=-1.7 pitch= 8.0 => rudder= 0.07 elevator=-0.01 aileron= 0.03 throttle= 1.00
+heading=166.4 roll=-1.5 pitch= 8.0 => rudder= 0.11 elevator=-0.01 aileron= 0.03 throttle= 1.00
+heading=166.5 roll=-1.4 pitch= 8.1 => rudder= 0.11 elevator=-0.01 aileron= 0.03 throttle= 1.00
+heading=166.9 roll=-1.2 pitch= 8.2 => rudder= 0.10 elevator=-0.01 aileron= 0.02 throttle= 1.00
+heading=167.3 roll=-0.8 pitch= 8.3 => rudder= 0.08 elevator=-0.01 aileron= 0.02 throttle= 1.00
+heading=167.6 roll=-0.3 pitch= 8.4 => rudder= 0.07 elevator=-0.01 aileron= 0.01 throttle= 1.00
+heading=167.7 roll= 0.1 pitch= 8.4 => rudder= 0.09 elevator=-0.00 aileron=-0.00 throttle= 1.00
+heading=167.7 roll= 0.4 pitch= 8.5 => rudder= 0.10 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=167.7 roll= 0.4 pitch= 8.5 => rudder= 0.11 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=167.9 roll= 0.4 pitch= 8.6 => rudder= 0.11 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=168.1 roll= 0.5 pitch= 8.6 => rudder= 0.10 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=168.4 roll= 0.6 pitch= 8.6 => rudder= 0.10 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=168.7 roll= 0.8 pitch= 8.7 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=168.9 roll= 1.0 pitch= 8.7 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=169.0 roll= 1.1 pitch= 8.7 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=169.1 roll= 1.2 pitch= 8.7 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=169.2 roll= 1.2 pitch= 8.8 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=169.4 roll= 1.2 pitch= 8.8 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=169.6 roll= 1.1 pitch= 8.8 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=169.7 roll= 1.2 pitch= 8.8 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=169.9 roll= 1.2 pitch= 8.8 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=170.1 roll= 1.2 pitch= 8.8 => rudder= 0.09 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=170.3 roll= 1.3 pitch= 8.8 => rudder= 0.09 elevator= 0.00 aileron=-0.03 throttle= 1.00
+heading=170.3 roll= 1.3 pitch= 8.9 => rudder= 0.09 elevator= 0.00 aileron=-0.03 throttle= 1.00
+heading=170.4 roll= 1.2 pitch= 8.9 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=170.5 roll= 1.1 pitch= 8.9 => rudder= 0.09 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=170.6 roll= 1.0 pitch= 8.9 => rudder= 0.09 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=170.7 roll= 1.0 pitch= 8.9 => rudder= 0.09 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=170.8 roll= 0.9 pitch= 8.9 => rudder= 0.09 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=170.9 roll= 0.9 pitch= 8.9 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=171.1 roll= 0.8 pitch= 8.9 => rudder= 0.08 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=171.2 roll= 0.8 pitch= 8.9 => rudder= 0.08 elevator= 0.01 aileron=-0.02 throttle= 1.00
+heading=171.2 roll= 0.8 pitch= 8.9 => rudder= 0.08 elevator= 0.01 aileron=-0.02 throttle= 1.00
+heading=171.2 roll= 0.8 pitch= 9.0 => rudder= 0.09 elevator= 0.01 aileron=-0.02 throttle= 1.00
+heading=171.3 roll= 0.6 pitch= 9.0 => rudder= 0.09 elevator= 0.00 aileron=-0.01 throttle= 1.00
+heading=171.4 roll= 0.5 pitch= 9.0 => rudder= 0.07 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.5 roll= 0.5 pitch= 9.0 => rudder= 0.07 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.6 roll= 0.5 pitch= 9.0 => rudder= 0.07 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.5 roll= 0.5 pitch= 9.0 => rudder= 0.08 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.5 roll= 0.4 pitch= 9.0 => rudder= 0.09 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.6 roll= 0.3 pitch= 9.0 => rudder= 0.06 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.7 roll= 0.3 pitch= 9.0 => rudder= 0.06 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.7 roll= 0.3 pitch= 9.0 => rudder= 0.07 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=171.7 roll= 0.2 pitch= 9.0 => rudder= 0.08 elevator= 0.01 aileron=-0.00 throttle= 1.00
+heading=171.7 roll= 0.1 pitch= 9.1 => rudder= 0.08 elevator= 0.01 aileron=-0.00 throttle= 1.00
+heading=171.8 roll= 0.1 pitch= 9.1 => rudder= 0.16 elevator= 0.01 aileron=-0.00 throttle= 1.00
+heading=172.0 roll= 0.0 pitch= 9.1 => rudder= 0.15 elevator= 0.01 aileron=-0.00 throttle= 1.00
+heading=172.7 roll= 0.3 pitch= 9.1 => rudder= 0.13 elevator= 0.01 aileron=-0.01 throttle= 1.00
+heading=173.4 roll= 0.8 pitch= 9.1 => rudder= 0.10 elevator= 0.01 aileron=-0.02 throttle= 1.00
+heading=174.0 roll= 1.5 pitch= 9.1 => rudder= 0.08 elevator= 0.01 aileron=-0.03 throttle= 1.00
+heading=174.1 roll= 2.1 pitch= 9.1 => rudder= 0.23 elevator= 0.01 aileron=-0.04 throttle= 1.00
+heading=174.3 roll= 2.2 pitch= 9.0 => rudder= 0.24 elevator= 0.01 aileron=-0.04 throttle= 1.00
+heading=175.2 roll= 2.3 pitch= 9.0 => rudder= 0.21 elevator= 0.01 aileron=-0.05 throttle= 1.00
+heading=176.4 roll= 2.9 pitch= 8.9 => rudder= 0.17 elevator= 0.01 aileron=-0.06 throttle= 1.00
+heading=177.4 roll= 3.7 pitch= 8.9 => rudder= 0.14 elevator= 0.01 aileron=-0.07 throttle= 1.00
+heading=178.0 roll= 4.6 pitch= 8.8 => rudder= 0.32 elevator= 0.01 aileron=-0.09 throttle= 1.00
+heading=178.4 roll= 5.0 pitch= 8.8 => rudder= 0.32 elevator= 0.01 aileron=-0.10 throttle= 1.00
+heading=179.5 roll= 5.2 pitch= 8.7 => rudder= 0.30 elevator= 0.01 aileron=-0.10 throttle= 1.00
+heading=180.9 roll= 5.7 pitch= 8.6 => rudder= 0.25 elevator= 0.01 aileron=-0.11 throttle= 1.00
+heading=182.2 roll= 6.6 pitch= 8.4 => rudder= 0.21 elevator= 0.01 aileron=-0.13 throttle= 1.00
+heading=183.1 roll= 7.5 pitch= 8.3 => rudder= 0.40 elevator= 0.01 aileron=-0.15 throttle= 1.00
+heading=183.9 roll= 7.9 pitch= 8.3 => rudder= 0.40 elevator= 0.00 aileron=-0.16 throttle= 1.00
+heading=185.4 roll= 8.3 pitch= 8.1 => rudder= 0.37 elevator= 0.00 aileron=-0.17 throttle= 1.00
+heading=187.0 roll= 8.9 pitch= 7.9 => rudder= 0.32 elevator= 0.00 aileron=-0.18 throttle= 1.00
+heading=188.6 roll= 9.8 pitch= 7.7 => rudder= 0.28 elevator=-0.00 aileron=-0.20 throttle= 1.00
+heading=189.7 roll= 10.6 pitch= 7.6 => rudder= 0.40 elevator=-0.00 aileron=-0.20 throttle= 1.00
+heading=190.5 roll= 11.0 pitch= 7.5 => rudder= 0.40 elevator=-0.00 aileron=-0.20 throttle= 1.00
+heading=191.6 roll= 11.3 pitch= 7.4 => rudder= 0.40 elevator=-0.00 aileron=-0.20 throttle= 1.00
+heading=192.8 roll= 11.7 pitch= 7.3 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=194.2 roll= 12.1 pitch= 7.1 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=195.7 roll= 12.8 pitch= 7.0 => rudder= 0.40 elevator=-0.01 aileron=-0.20 throttle= 1.00
+heading=197.1 roll= 13.6 pitch= 6.8 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=198.5 roll= 14.4 pitch= 6.6 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=199.8 roll= 15.2 pitch= 6.5 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=201.0 roll= 15.9 pitch= 6.4 => rudder= 0.40 elevator=-0.02 aileron=-0.20 throttle= 1.00
+heading=202.4 roll= 16.6 pitch= 6.3 => rudder= 0.40 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=203.8 roll= 17.2 pitch= 6.2 => rudder= 0.40 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=205.2 roll= 17.8 pitch= 6.1 => rudder= 0.40 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=206.8 roll= 18.4 pitch= 5.9 => rudder= 0.40 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=208.5 roll= 19.0 pitch= 5.8 => rudder= 0.40 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=210.2 roll= 19.6 pitch= 5.6 => rudder= 0.40 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=212.1 roll= 20.3 pitch= 5.5 => rudder= 0.40 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=214.0 roll= 21.0 pitch= 5.4 => rudder= 0.40 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=215.8 roll= 21.7 pitch= 5.2 => rudder= 0.40 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=217.7 roll= 22.4 pitch= 5.1 => rudder= 0.40 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=219.7 roll= 23.1 pitch= 5.0 => rudder= 0.40 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=221.6 roll= 23.8 pitch= 4.9 => rudder= 0.40 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=223.8 roll= 24.5 pitch= 4.8 => rudder= 0.40 elevator=-0.06 aileron=-0.20 throttle= 1.00
+heading=225.9 roll= 25.2 pitch= 4.7 => rudder= 0.40 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=228.1 roll= 25.9 pitch= 4.6 => rudder= 0.40 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=230.3 roll= 26.5 pitch= 4.4 => rudder= 0.40 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=232.8 roll= 27.2 pitch= 4.3 => rudder= 0.40 elevator=-0.08 aileron=-0.20 throttle= 1.00
+heading=235.2 roll= 28.0 pitch= 4.2 => rudder= 0.40 elevator=-0.08 aileron=-0.20 throttle= 1.00
+heading=237.7 roll= 28.7 pitch= 4.0 => rudder= 0.40 elevator=-0.09 aileron=-0.20 throttle= 1.00
+heading=240.2 roll= 29.4 pitch= 3.9 => rudder= 0.40 elevator=-0.09 aileron=-0.20 throttle= 1.00
+heading=242.8 roll= 30.1 pitch= 3.7 => rudder= 0.37 elevator=-0.09 aileron=-0.20 throttle= 1.00
+heading=245.4 roll= 30.8 pitch= 3.6 => rudder= 0.29 elevator=-0.10 aileron=-0.20 throttle= 1.00
+heading=247.8 roll= 31.5 pitch= 3.7 => rudder= 0.30 elevator=-0.10 aileron=-0.20 throttle= 1.00
+heading=249.9 roll= 32.1 pitch= 3.8 => rudder= 0.23 elevator=-0.09 aileron=-0.20 throttle= 1.00
+heading=251.8 roll= 32.2 pitch= 4.1 => rudder= 0.16 elevator=-0.08 aileron=-0.20 throttle= 1.00
+heading=253.4 roll= 32.0 pitch= 4.4 => rudder= 0.11 elevator=-0.07 aileron=-0.20 throttle= 1.00
+heading=254.6 roll= 31.3 pitch= 4.7 => rudder= 0.07 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=255.6 roll= 30.1 pitch= 5.1 => rudder= 0.04 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=256.5 roll= 28.1 pitch= 5.4 => rudder= 0.06 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=257.3 roll= 25.6 pitch= 5.4 => rudder= 0.03 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=258.6 roll= 22.8 pitch= 5.4 => rudder=-0.03 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=259.9 roll= 20.0 pitch= 5.4 => rudder=-0.08 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=261.1 roll= 17.3 pitch= 5.6 => rudder=-0.14 elevator=-0.05 aileron=-0.20 throttle= 1.00
+heading=261.9 roll= 14.4 pitch= 6.0 => rudder=-0.15 elevator=-0.04 aileron=-0.20 throttle= 1.00
+heading=262.1 roll= 11.3 pitch= 6.2 => rudder=-0.16 elevator=-0.03 aileron=-0.20 throttle= 1.00
+heading=261.9 roll= 7.7 pitch= 6.3 => rudder=-0.15 elevator=-0.03 aileron=-0.15 throttle= 1.00
+heading=261.5 roll= 4.1 pitch= 6.5 => rudder=-0.13 elevator=-0.03 aileron=-0.08 throttle= 1.00
+heading=260.9 roll= 1.0 pitch= 6.6 => rudder=-0.10 elevator=-0.03 aileron=-0.02 throttle= 1.00
+heading=260.2 roll=-1.2 pitch= 6.7 => rudder=-0.07 elevator=-0.03 aileron= 0.02 throttle= 1.00
+heading=259.4 roll=-2.9 pitch= 6.8 => rudder=-0.01 elevator=-0.03 aileron= 0.06 throttle= 1.00
+heading=258.8 roll=-4.1 pitch= 6.9 => rudder= 0.02 elevator=-0.03 aileron= 0.08 throttle= 1.00
+heading=258.6 roll=-4.8 pitch= 7.0 => rudder= 0.03 elevator=-0.03 aileron= 0.10 throttle= 1.00
+heading=258.6 roll=-5.1 pitch= 7.1 => rudder= 0.03 elevator=-0.02 aileron= 0.10 throttle= 1.00
+heading=258.7 roll=-4.8 pitch= 7.2 => rudder= 0.02 elevator=-0.02 aileron= 0.10 throttle= 1.00
+heading=258.8 roll=-4.3 pitch= 7.3 => rudder= 0.04 elevator=-0.02 aileron= 0.09 throttle= 1.00
+heading=258.7 roll=-3.7 pitch= 7.4 => rudder= 0.05 elevator=-0.02 aileron= 0.07 throttle= 1.00
+heading=258.6 roll=-3.2 pitch= 7.6 => rudder= 0.06 elevator=-0.02 aileron= 0.06 throttle= 1.00
+heading=258.5 roll=-2.8 pitch= 7.7 => rudder= 0.07 elevator=-0.02 aileron= 0.06 throttle= 1.00
+heading=258.5 roll=-2.5 pitch= 7.8 => rudder= 0.08 elevator=-0.02 aileron= 0.05 throttle= 1.00
+heading=258.6 roll=-2.2 pitch= 7.9 => rudder= 0.09 elevator=-0.02 aileron= 0.04 throttle= 1.00
+heading=258.8 roll=-1.8 pitch= 8.0 => rudder= 0.09 elevator=-0.01 aileron= 0.04 throttle= 1.00
+heading=259.0 roll=-1.4 pitch= 8.1 => rudder= 0.09 elevator=-0.01 aileron= 0.03 throttle= 1.00
+heading=259.2 roll=-0.9 pitch= 8.2 => rudder= 0.09 elevator=-0.01 aileron= 0.02 throttle= 1.00
+heading=259.4 roll=-0.5 pitch= 8.3 => rudder= 0.09 elevator=-0.01 aileron= 0.01 throttle= 1.00
+heading=259.5 roll=-0.2 pitch= 8.4 => rudder= 0.09 elevator=-0.01 aileron= 0.00 throttle= 1.00
+heading=259.6 roll= 0.1 pitch= 8.4 => rudder= 0.10 elevator=-0.00 aileron=-0.00 throttle= 1.00
+heading=259.7 roll= 0.2 pitch= 8.5 => rudder= 0.10 elevator=-0.00 aileron=-0.00 throttle= 1.00
+heading=259.9 roll= 0.3 pitch= 8.5 => rudder= 0.11 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=260.1 roll= 0.5 pitch= 8.5 => rudder= 0.11 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=260.3 roll= 0.7 pitch= 8.6 => rudder= 0.09 elevator=-0.00 aileron=-0.01 throttle= 1.00
+heading=260.6 roll= 0.9 pitch= 8.6 => rudder= 0.09 elevator=-0.00 aileron=-0.02 throttle= 1.00
+heading=260.7 roll= 1.1 pitch= 8.6 => rudder= 0.10 elevator=-0.00 aileron=-0.02 throttle= 1.00
+heading=260.8 roll= 1.2 pitch= 8.7 => rudder= 0.11 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=260.9 roll= 1.2 pitch= 8.7 => rudder= 0.12 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=261.1 roll= 1.2 pitch= 8.7 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=261.3 roll= 1.2 pitch= 8.7 => rudder= 0.10 elevator= 0.00 aileron=-0.02 throttle= 1.00
+heading=261.5 roll= 1.3 pitch= 8.7 => rudder= 0.10 elevator= 0.00 aileron=-0.03 throttle= 0.99
+heading=261.6 roll= 1.3 pitch= 8.7 => rudder= 0.11 elevator= 0.00 aileron=-0.03 throttle= 0.96
+heading=261.7 roll= 1.3 pitch= 8.7 => rudder= 0.12 elevator= 0.00 aileron=-0.03 throttle= 0.94
+heading=261.9 roll= 1.3 pitch= 8.7 => rudder= 0.09 elevator= 0.00 aileron=-0.03 throttle= 0.91
+heading=262.1 roll= 1.3 pitch= 8.7 => rudder= 0.09 elevator= 0.00 aileron=-0.03 throttle= 0.89
+heading=262.2 roll= 1.3 pitch= 8.8 => rudder= 0.10 elevator= 0.00 aileron=-0.03 throttle= 0.86
+heading=262.2 roll= 1.3 pitch= 8.8 => rudder= 0.11 elevator= 0.00 aileron=-0.03 throttle= 0.84
+heading=262.3 roll= 1.2 pitch= 8.7 => rudder= 0.11 elevator= 0.00 aileron=-0.02 throttle= 0.82
+heading=262.5 roll= 1.2 pitch= 8.7 => rudder= 0.08 elevator= 0.00 aileron=-0.02 throttle= 0.79
+heading=262.7 roll= 1.3 pitch= 8.7 => rudder= 0.08 elevator= 0.00 aileron=-0.03 throttle= 0.77
+heading=262.8 roll= 1.3 pitch= 8.6 => rudder= 0.09 elevator= 0.00 aileron=-0.03 throttle= 0.74
+heading=262.8 roll= 1.4 pitch= 8.5 => rudder= 0.10 elevator= 0.00 aileron=-0.03 throttle= 0.72
+heading=262.9 roll= 1.3 pitch= 8.4 => rudder= 0.11 elevator= 0.00 aileron=-0.03 throttle= 0.69
+heading=263.0 roll= 1.2 pitch= 8.3 => rudder= 0.11 elevator= 0.00 aileron=-0.02 throttle= 0.67
+heading=263.3 roll= 1.3 pitch= 8.1 => rudder= 0.06 elevator= 0.00 aileron=-0.03 throttle= 0.65
+heading=263.6 roll= 1.5 pitch= 8.0 => rudder= 0.06 elevator= 0.00 aileron=-0.03 throttle= 0.63
+heading=263.6 roll= 1.6 pitch= 7.8 => rudder= 0.07 elevator=-0.00 aileron=-0.03 throttle= 0.61
+heading=263.6 roll= 1.7 pitch= 7.6 => rudder= 0.08 elevator=-0.00 aileron=-0.03 throttle= 0.58
+heading=263.5 roll= 1.6 pitch= 7.4 => rudder= 0.10 elevator=-0.00 aileron=-0.03 throttle= 0.56
+heading=263.6 roll= 1.4 pitch= 7.1 => rudder= 0.05 elevator=-0.01 aileron=-0.03 throttle= 0.55
+heading=263.8 roll= 1.3 pitch= 6.9 => rudder= 0.05 elevator=-0.01 aileron=-0.03 throttle= 0.53
+heading=263.9 roll= 1.4 pitch= 6.6 => rudder= 0.06 elevator=-0.01 aileron=-0.03 throttle= 0.51
+heading=263.9 roll= 1.4 pitch= 6.4 => rudder= 0.07 elevator=-0.02 aileron=-0.03 throttle= 0.50
+heading=264.0 roll= 1.4 pitch= 6.1 => rudder= 0.07 elevator=-0.02 aileron=-0.03 throttle= 0.48
+heading=264.1 roll= 1.3 pitch= 5.9 => rudder= 0.03 elevator=-0.02 aileron=-0.03 throttle= 0.47
+heading=264.2 roll= 1.3 pitch= 5.6 => rudder= 0.03 elevator=-0.02 aileron=-0.03 throttle= 0.46
+heading=264.2 roll= 1.3 pitch= 5.4 => rudder= 0.04 elevator=-0.02 aileron=-0.03 throttle= 0.45
+heading=264.1 roll= 1.2 pitch= 5.2 => rudder= 0.05 elevator=-0.02 aileron=-0.02 throttle= 0.44
+heading=264.1 roll= 1.0 pitch= 4.9 => rudder= 0.06 elevator=-0.03 aileron=-0.02 throttle= 0.43
+heading=264.1 roll= 0.9 pitch= 4.7 => rudder= 0.07 elevator=-0.03 aileron=-0.02 throttle= 0.42
+heading=264.3 roll= 0.8 pitch= 4.5 => rudder= 0.02 elevator=-0.03 aileron=-0.02 throttle= 0.41
+heading=264.5 roll= 0.8 pitch= 4.2 => rudder= 0.02 elevator=-0.03 aileron=-0.02 throttle= 0.41
+heading=264.5 roll= 0.9 pitch= 4.0 => rudder= 0.02 elevator=-0.04 aileron=-0.02 throttle= 0.40
+heading=264.4 roll= 0.9 pitch= 3.8 => rudder= 0.04 elevator=-0.04 aileron=-0.02 throttle= 0.40
+heading=264.2 roll= 0.8 pitch= 3.6 => rudder= 0.05 elevator=-0.04 aileron=-0.02 throttle= 0.39
+heading=264.2 roll= 0.6 pitch= 3.3 => rudder= 0.01 elevator=-0.04 aileron=-0.01 throttle= 0.39
+heading=264.3 roll= 0.4 pitch= 3.1 => rudder= 0.02 elevator=-0.05 aileron=-0.01 throttle= 0.39
+heading=264.2 roll= 0.3 pitch= 3.0 => rudder= 0.02 elevator=-0.05 aileron=-0.01 throttle= 0.39
+heading=264.2 roll= 0.2 pitch= 2.8 => rudder= 0.03 elevator=-0.05 aileron=-0.00 throttle= 0.39
+heading=264.1 roll= 0.1 pitch= 2.6 => rudder= 0.04 elevator=-0.06 aileron=-0.00 throttle= 0.39
+heading=264.1 roll= 0.0 pitch= 2.4 => rudder= 0.05 elevator=-0.06 aileron=-0.00 throttle= 0.39
+heading=264.2 roll=-0.0 pitch= 2.3 => rudder= 0.01 elevator=-0.06 aileron= 0.00 throttle= 0.40
+heading=264.2 roll=-0.0 pitch= 2.1 => rudder= 0.01 elevator=-0.06 aileron= 0.00 throttle= 0.40
+heading=264.1 roll=-0.0 pitch= 2.0 => rudder= 0.02 elevator=-0.07 aileron= 0.00 throttle= 0.40
+heading=264.0 roll=-0.1 pitch= 1.8 => rudder= 0.03 elevator=-0.07 aileron= 0.00 throttle= 0.41
+heading=263.9 roll=-0.2 pitch= 1.7 => rudder= 0.04 elevator=-0.07 aileron= 0.00 throttle= 0.41
+heading=263.8 roll=-0.3 pitch= 1.6 => rudder= 0.05 elevator=-0.07 aileron= 0.01 throttle= 0.42
+heading=263.8 roll=-0.4 pitch= 1.5 => rudder= 0.01 elevator=-0.08 aileron= 0.01 throttle= 0.42
+heading=263.9 roll=-0.5 pitch= 1.4 => rudder= 0.02 elevator=-0.08 aileron= 0.01 throttle= 0.43
+heading=263.8 roll=-0.5 pitch= 1.3 => rudder= 0.02 elevator=-0.08 aileron= 0.01 throttle= 0.43
+heading=263.7 roll=-0.4 pitch= 1.2 => rudder= 0.03 elevator=-0.08 aileron= 0.01 throttle= 0.44
+heading=263.6 roll=-0.5 pitch= 1.1 => rudder= 0.04 elevator=-0.08 aileron= 0.01 throttle= 0.45
+heading=263.5 roll=-0.5 pitch= 1.1 => rudder= 0.05 elevator=-0.08 aileron= 0.01 throttle= 0.46
+heading=263.5 roll=-0.6 pitch= 1.0 => rudder= 0.02 elevator=-0.09 aileron= 0.01 throttle= 0.46
+heading=263.5 roll=-0.7 pitch= 1.0 => rudder= 0.03 elevator=-0.09 aileron= 0.01 throttle= 0.47
+heading=263.5 roll=-0.7 pitch= 0.9 => rudder= 0.03 elevator=-0.09 aileron= 0.01 throttle= 0.48
+heading=263.4 roll=-0.6 pitch= 0.9 => rudder= 0.04 elevator=-0.09 aileron= 0.01 throttle= 0.49
+heading=263.3 roll=-0.7 pitch= 0.8 => rudder= 0.05 elevator=-0.09 aileron= 0.01 throttle= 0.50
+heading=263.3 roll=-0.7 pitch= 0.8 => rudder= 0.06 elevator=-0.09 aileron= 0.01 throttle= 0.50
+heading=263.3 roll=-0.7 pitch= 0.8 => rudder= 0.07 elevator=-0.09 aileron= 0.01 throttle= 0.51
+heading=263.4 roll=-0.7 pitch= 0.8 => rudder= 0.03 elevator=-0.09 aileron= 0.01 throttle= 0.52
+heading=263.4 roll=-0.6 pitch= 0.8 => rudder= 0.03 elevator=-0.09 aileron= 0.01 throttle= 0.53
+heading=263.4 roll=-0.5 pitch= 0.8 => rudder= 0.04 elevator=-0.09 aileron= 0.01 throttle= 0.54
+heading=263.3 roll=-0.4 pitch= 0.8 => rudder= 0.05 elevator=-0.09 aileron= 0.01 throttle= 0.55
+heading=263.2 roll=-0.4 pitch= 0.8 => rudder= 0.07 elevator=-0.09 aileron= 0.01 throttle= 0.56
+heading=263.1 roll=-0.5 pitch= 0.8 => rudder= 0.08 elevator=-0.09 aileron= 0.01 throttle= 0.57
+heading=263.1 roll=-0.6 pitch= 0.8 => rudder= 0.04 elevator=-0.09 aileron= 0.01 throttle= 0.58
+heading=263.2 roll=-0.6 pitch= 0.8 => rudder= 0.04 elevator=-0.09 aileron= 0.01 throttle= 0.58
+heading=263.2 roll=-0.5 pitch= 0.8 => rudder= 0.05 elevator=-0.09 aileron= 0.01 throttle= 0.59
+heading=263.2 roll=-0.4 pitch= 0.9 => rudder= 0.06 elevator=-0.09 aileron= 0.01 throttle= 0.60
+heading=263.1 roll=-0.4 pitch= 0.9 => rudder= 0.07 elevator=-0.09 aileron= 0.01 throttle= 0.61
+heading=263.1 roll=-0.4 pitch= 0.9 => rudder= 0.08 elevator=-0.09 aileron= 0.01 throttle= 0.62
+heading=263.1 roll=-0.5 pitch= 1.0 => rudder= 0.05 elevator=-0.09 aileron= 0.01 throttle= 0.63
+heading=263.2 roll=-0.4 pitch= 1.0 => rudder= 0.05 elevator=-0.09 aileron= 0.01 throttle= 0.63
+heading=263.1 roll=-0.4 pitch= 1.1 => rudder= 0.06 elevator=-0.09 aileron= 0.01 throttle= 0.64
+heading=263.1 roll=-0.4 pitch= 1.1 => rudder= 0.07 elevator=-0.09 aileron= 0.01 throttle= 0.65
+heading=263.0 roll=-0.4 pitch= 1.2 => rudder= 0.08 elevator=-0.09 aileron= 0.01 throttle= 0.66
+heading=263.0 roll=-0.4 pitch= 1.3 => rudder= 0.09 elevator=-0.08 aileron= 0.01 throttle= 0.66
+heading=263.0 roll=-0.5 pitch= 1.3 => rudder= 0.09 elevator=-0.08 aileron= 0.01 throttle= 0.67
+heading=263.1 roll=-0.5 pitch= 1.4 => rudder= 0.05 elevator=-0.08 aileron= 0.01 throttle= 0.68
+heading=263.2 roll=-0.4 pitch= 1.5 => rudder= 0.06 elevator=-0.08 aileron= 0.01 throttle= 0.68
+heading=263.2 roll=-0.2 pitch= 1.5 => rudder= 0.06 elevator=-0.08 aileron= 0.00 throttle= 0.69
+heading=263.1 roll=-0.2 pitch= 1.6 => rudder= 0.07 elevator=-0.08 aileron= 0.00 throttle= 0.70
+heading=263.0 roll=-0.2 pitch= 1.7 => rudder= 0.09 elevator=-0.08 aileron= 0.00 throttle= 0.70
+heading=263.0 roll=-0.3 pitch= 1.8 => rudder= 0.10 elevator=-0.08 aileron= 0.01 throttle= 0.71
+heading=263.1 roll=-0.3 pitch= 1.8 => rudder= 0.06 elevator=-0.08 aileron= 0.01 throttle= 0.71
+heading=263.2 roll=-0.3 pitch= 1.9 => rudder= 0.06 elevator=-0.07 aileron= 0.01 throttle= 0.72
+heading=263.2 roll=-0.2 pitch= 2.0 => rudder= 0.07 elevator=-0.07 aileron= 0.00 throttle= 0.72
+heading=263.1 roll=-0.2 pitch= 2.1 => rudder= 0.08 elevator=-0.07 aileron= 0.00 throttle= 0.73
+heading=263.1 roll=-0.2 pitch= 2.2 => rudder= 0.09 elevator=-0.07 aileron= 0.00 throttle= 0.73
+heading=263.1 roll=-0.2 pitch= 2.3 => rudder= 0.10 elevator=-0.07 aileron= 0.00 throttle= 0.73
+heading=263.2 roll=-0.3 pitch= 2.3 => rudder= 0.06 elevator=-0.07 aileron= 0.01 throttle= 0.74
+heading=263.3 roll=-0.2 pitch= 2.4 => rudder= 0.06 elevator=-0.07 aileron= 0.00 throttle= 0.74
+heading=263.3 roll=-0.2 pitch= 2.5 => rudder= 0.07 elevator=-0.07 aileron= 0.00 throttle= 0.74
+heading=263.2 roll=-0.1 pitch= 2.6 => rudder= 0.08 elevator=-0.07 aileron= 0.00 throttle= 0.75
+heading=263.2 roll=-0.1 pitch= 2.7 => rudder= 0.09 elevator=-0.06 aileron= 0.00 throttle= 0.75
+heading=263.2 roll=-0.2 pitch= 2.7 => rudder= 0.10 elevator=-0.06 aileron= 0.00 throttle= 0.75
+heading=263.3 roll=-0.3 pitch= 2.8 => rudder= 0.06 elevator=-0.06 aileron= 0.01 throttle= 0.75
+heading=263.4 roll=-0.2 pitch= 2.9 => rudder= 0.06 elevator=-0.06 aileron= 0.00 throttle= 0.75
+heading=263.4 roll=-0.1 pitch= 3.0 => rudder= 0.07 elevator=-0.06 aileron= 0.00 throttle= 0.76
+heading=263.4 roll=-0.1 pitch= 3.1 => rudder= 0.08 elevator=-0.06 aileron= 0.00 throttle= 0.76
+heading=263.3 roll=-0.1 pitch= 3.1 => rudder= 0.09 elevator=-0.06 aileron= 0.00 throttle= 0.76
+heading=263.3 roll=-0.2 pitch= 3.2 => rudder= 0.10 elevator=-0.06 aileron= 0.00 throttle= 0.76
+heading=263.4 roll=-0.2 pitch= 3.3 => rudder= 0.06 elevator=-0.06 aileron= 0.00 throttle= 0.76
+heading=263.5 roll=-0.2 pitch= 3.3 => rudder= 0.06 elevator=-0.06 aileron= 0.00 throttle= 0.76
+heading=263.5 roll=-0.0 pitch= 3.4 => rudder= 0.07 elevator=-0.05 aileron= 0.00 throttle= 0.75
+heading=263.5 roll= 0.0 pitch= 3.5 => rudder= 0.08 elevator=-0.05 aileron=-0.00 throttle= 0.75
+heading=263.4 roll=-0.0 pitch= 3.5 => rudder= 0.09 elevator=-0.05 aileron= 0.00 throttle= 0.75
+heading=263.4 roll=-0.1 pitch= 3.6 => rudder= 0.10 elevator=-0.05 aileron= 0.00 throttle= 0.75
+heading=263.5 roll=-0.1 pitch= 3.6 => rudder= 0.06 elevator=-0.05 aileron= 0.00 throttle= 0.75
+heading=263.7 roll=-0.1 pitch= 3.7 => rudder= 0.06 elevator=-0.05 aileron= 0.00 throttle= 0.75
+heading=263.7 roll= 0.0 pitch= 3.7 => rudder= 0.07 elevator=-0.05 aileron=-0.00 throttle= 0.74
+heading=263.6 roll= 0.1 pitch= 3.8 => rudder= 0.08 elevator=-0.05 aileron=-0.00 throttle= 0.74
+heading=263.5 roll= 0.1 pitch= 3.8 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 0.74
+heading=263.5 roll=-0.0 pitch= 3.9 => rudder= 0.10 elevator=-0.05 aileron= 0.00 throttle= 0.74
+heading=263.7 roll=-0.1 pitch= 3.9 => rudder= 0.05 elevator=-0.05 aileron= 0.00 throttle= 0.73
+heading=263.8 roll=-0.0 pitch= 3.9 => rudder= 0.06 elevator=-0.05 aileron= 0.00 throttle= 0.73
+heading=263.8 roll= 0.1 pitch= 3.9 => rudder= 0.06 elevator=-0.05 aileron=-0.00 throttle= 0.73
+heading=263.7 roll= 0.1 pitch= 4.0 => rudder= 0.07 elevator=-0.05 aileron=-0.00 throttle= 0.72
+heading=263.7 roll= 0.1 pitch= 4.0 => rudder= 0.09 elevator=-0.05 aileron=-0.00 throttle= 0.72
+heading=263.7 roll= 0.0 pitch= 4.0 => rudder= 0.14 elevator=-0.05 aileron=-0.00 throttle= 0.62
+heading=263.8 roll=-0.1 pitch= 4.0 => rudder= 0.14 elevator=-0.05 aileron= 0.00 throttle= 0.61
+heading=264.3 roll=-0.0 pitch= 4.0 => rudder= 0.13 elevator=-0.05 aileron= 0.00 throttle= 0.61
+heading=264.8 roll= 0.3 pitch= 4.0 => rudder= 0.11 elevator=-0.05 aileron=-0.01 throttle= 0.61
+heading=265.3 roll= 0.8 pitch= 4.0 => rudder= 0.10 elevator=-0.04 aileron=-0.02 throttle= 0.60
+heading=265.6 roll= 1.3 pitch= 3.9 => rudder= 0.10 elevator=-0.04 aileron=-0.03 throttle= 0.60
+heading=265.8 roll= 1.8 pitch= 3.9 => rudder= 0.22 elevator=-0.04 aileron=-0.04 throttle= 0.50
+heading=266.1 roll= 2.0 pitch= 3.8 => rudder= 0.22 elevator=-0.04 aileron=-0.04 throttle= 0.49
+heading=266.7 roll= 2.1 pitch= 3.7 => rudder= 0.20 elevator=-0.05 aileron=-0.04 throttle= 0.49
+heading=267.7 roll= 2.5 pitch= 3.6 => rudder= 0.17 elevator=-0.05 aileron=-0.05 throttle= 0.49
+heading=268.5 roll= 3.2 pitch= 3.4 => rudder= 0.15 elevator=-0.05 aileron=-0.06 throttle= 0.49
+heading=269.2 roll= 3.9 pitch= 3.3 => rudder= 0.14 elevator=-0.05 aileron=-0.08 throttle= 0.48
+heading=269.6 roll= 4.5 pitch= 3.1 => rudder= 0.30 elevator=-0.05 aileron=-0.09 throttle= 0.38
+heading=270.0 roll= 4.8 pitch= 3.0 => rudder= 0.30 elevator=-0.05 aileron=-0.10 throttle= 0.38
+heading=270.9 roll= 4.9 pitch= 2.8 => rudder= 0.27 elevator=-0.05 aileron=-0.10 throttle= 0.38
+heading=272.1 roll= 5.2 pitch= 2.6 => rudder= 0.24 elevator=-0.05 aileron=-0.10 throttle= 0.38
+heading=273.3 roll= 5.8 pitch= 2.3 => rudder= 0.20 elevator=-0.06 aileron=-0.12 throttle= 0.38
+heading=274.2 roll= 6.5 pitch= 2.1 => rudder= 0.18 elevator=-0.06 aileron=-0.13 throttle= 0.38
+heading=274.8 roll= 7.1 pitch= 1.9 => rudder= 0.37 elevator=-0.06 aileron=-0.14 throttle= 0.28
+heading=275.4 roll= 7.4 pitch= 1.7 => rudder= 0.36 elevator=-0.06 aileron=-0.15 throttle= 0.28
+heading=276.4 roll= 7.5 pitch= 1.5 => rudder= 0.34 elevator=-0.07 aileron=-0.15 throttle= 0.29
+heading=277.8 roll= 7.7 pitch= 1.2 => rudder= 0.29 elevator=-0.07 aileron=-0.15 throttle= 0.29
+heading=279.2 roll= 8.3 pitch= 0.9 => rudder= 0.25 elevator=-0.08 aileron=-0.17 throttle= 0.29
+heading=280.3 roll= 8.9 pitch= 0.7 => rudder= 0.23 elevator=-0.08 aileron=-0.18 throttle= 0.30
+heading=281.2 roll= 9.5 pitch= 0.5 => rudder= 0.21 elevator=-0.09 aileron=-0.19 throttle= 0.30
+heading=281.7 roll= 9.8 pitch= 0.3 => rudder= 0.40 elevator=-0.09 aileron=-0.20 throttle= 0.21
+heading=282.4 roll= 9.7 pitch= 0.2 => rudder= 0.40 elevator=-0.09 aileron=-0.19 throttle= 0.22
+heading=283.7 roll= 9.4 pitch=-0.0 => rudder= 0.39 elevator=-0.09 aileron=-0.19 throttle= 0.22
+heading=285.2 roll= 9.3 pitch=-0.3 => rudder= 0.34 elevator=-0.10 aileron=-0.19 throttle= 0.23
+heading=286.8 roll= 9.6 pitch=-0.6 => rudder= 0.29 elevator=-0.10 aileron=-0.19 throttle= 0.24
+heading=288.1 roll= 10.2 pitch=-0.8 => rudder= 0.26 elevator=-0.11 aileron=-0.20 throttle= 0.25
+heading=289.1 roll= 10.7 pitch=-1.0 => rudder= 0.40 elevator=-0.11 aileron=-0.20 throttle= 0.16
+heading=289.8 roll= 11.0 pitch=-1.1 => rudder= 0.40 elevator=-0.12 aileron=-0.20 throttle= 0.17
+heading=290.7 roll= 11.1 pitch=-1.2 => rudder= 0.40 elevator=-0.12 aileron=-0.20 throttle= 0.18
+heading=291.8 roll= 11.0 pitch=-1.4 => rudder= 0.40 elevator=-0.12 aileron=-0.20 throttle= 0.19
+heading=293.0 roll= 11.0 pitch=-1.6 => rudder= 0.40 elevator=-0.13 aileron=-0.20 throttle= 0.20
+heading=294.4 roll= 11.0 pitch=-1.7 => rudder= 0.36 elevator=-0.14 aileron=-0.20 throttle= 0.21
+heading=295.7 roll= 11.2 pitch=-1.8 => rudder= 0.33 elevator=-0.14 aileron=-0.20 throttle= 0.22
+heading=296.9 roll= 11.4 pitch=-1.9 => rudder= 0.40 elevator=-0.14 aileron=-0.20 throttle= 0.14
+heading=297.9 roll= 11.6 pitch=-1.9 => rudder= 0.40 elevator=-0.15 aileron=-0.20 throttle= 0.15
+heading=299.0 roll= 11.6 pitch=-1.9 => rudder= 0.40 elevator=-0.15 aileron=-0.20 throttle= 0.16
+heading=300.1 roll= 11.6 pitch=-2.0 => rudder= 0.40 elevator=-0.15 aileron=-0.20 throttle= 0.18
+heading=301.3 roll= 11.5 pitch=-2.0 => rudder= 0.40 elevator=-0.15 aileron=-0.20 throttle= 0.19
+heading=302.5 roll= 11.5 pitch=-2.0 => rudder= 0.40 elevator=-0.15 aileron=-0.20 throttle= 0.20
+heading=303.7 roll= 11.4 pitch=-2.1 => rudder= 0.39 elevator=-0.15 aileron=-0.20 throttle= 0.21
+heading=305.0 roll= 11.4 pitch=-2.1 => rudder= 0.40 elevator=-0.15 aileron=-0.20 throttle= 0.13
+heading=306.2 roll= 11.4 pitch=-2.1 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.14
+heading=307.4 roll= 11.5 pitch=-2.1 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.15
+heading=308.6 roll= 11.5 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.17
+heading=309.8 roll= 11.5 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.18
+heading=311.0 roll= 11.5 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.19
+heading=312.1 roll= 11.5 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.21
+heading=313.3 roll= 11.6 pitch=-2.3 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.12
+heading=314.5 roll= 11.5 pitch=-2.3 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.13
+heading=315.7 roll= 11.5 pitch=-2.3 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.15
+heading=317.0 roll= 11.5 pitch=-2.3 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.16
+heading=318.1 roll= 11.5 pitch=-2.3 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.17
+heading=319.4 roll= 11.5 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.19
+heading=320.6 roll= 11.5 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.20
+heading=321.8 roll= 11.4 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.12
+heading=323.0 roll= 11.4 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.13
+heading=324.2 roll= 11.4 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.14
+heading=325.4 roll= 11.4 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.16
+heading=326.7 roll= 11.3 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.17
+heading=328.0 roll= 11.3 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.19
+heading=329.2 roll= 11.3 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.20
+heading=330.4 roll= 11.2 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.11
+heading=331.6 roll= 11.2 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.12
+heading=332.8 roll= 11.2 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.14
+heading=334.0 roll= 11.1 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.15
+heading=335.3 roll= 11.1 pitch=-2.6 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.17
+heading=336.4 roll= 11.1 pitch=-2.6 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.18
+heading=337.6 roll= 11.0 pitch=-2.6 => rudder= 0.39 elevator=-0.18 aileron=-0.20 throttle= 0.20
+heading=338.8 roll= 11.0 pitch=-2.6 => rudder= 0.36 elevator=-0.18 aileron=-0.20 throttle= 0.21
+heading=339.9 roll= 11.0 pitch=-2.6 => rudder= 0.38 elevator=-0.18 aileron=-0.20 throttle= 0.12
+heading=340.9 roll= 10.9 pitch=-2.6 => rudder= 0.35 elevator=-0.18 aileron=-0.20 throttle= 0.13
+heading=341.9 roll= 10.9 pitch=-2.6 => rudder= 0.32 elevator=-0.18 aileron=-0.20 throttle= 0.15
+heading=342.9 roll= 10.7 pitch=-2.5 => rudder= 0.30 elevator=-0.18 aileron=-0.20 throttle= 0.16
+heading=343.8 roll= 10.6 pitch=-2.5 => rudder= 0.28 elevator=-0.18 aileron=-0.20 throttle= 0.18
+heading=344.5 roll= 10.3 pitch=-2.5 => rudder= 0.27 elevator=-0.17 aileron=-0.20 throttle= 0.19
+heading=345.2 roll= 10.0 pitch=-2.4 => rudder= 0.25 elevator=-0.17 aileron=-0.20 throttle= 0.20
+heading=345.9 roll= 9.5 pitch=-2.4 => rudder= 0.25 elevator=-0.17 aileron=-0.19 throttle= 0.11
+heading=346.5 roll= 8.9 pitch=-2.3 => rudder= 0.23 elevator=-0.17 aileron=-0.18 throttle= 0.13
+heading=347.1 roll= 8.4 pitch=-2.3 => rudder= 0.22 elevator=-0.16 aileron=-0.17 throttle= 0.14
+heading=347.7 roll= 7.9 pitch=-2.3 => rudder= 0.21 elevator=-0.16 aileron=-0.16 throttle= 0.16
+heading=348.3 roll= 7.5 pitch=-2.3 => rudder= 0.20 elevator=-0.16 aileron=-0.15 throttle= 0.18
+heading=348.8 roll= 7.1 pitch=-2.3 => rudder= 0.19 elevator=-0.16 aileron=-0.14 throttle= 0.19
+heading=349.2 roll= 6.7 pitch=-2.2 => rudder= 0.18 elevator=-0.16 aileron=-0.13 throttle= 0.21
+heading=349.6 roll= 6.4 pitch=-2.2 => rudder= 0.18 elevator=-0.16 aileron=-0.13 throttle= 0.22
+heading=350.0 roll= 6.1 pitch=-2.2 => rudder= 0.15 elevator=-0.16 aileron=-0.12 throttle= 0.13
+heading=350.4 roll= 5.7 pitch=-2.2 => rudder= 0.14 elevator=-0.16 aileron=-0.11 throttle= 0.15
+heading=350.7 roll= 5.4 pitch=-2.2 => rudder= 0.13 elevator=-0.16 aileron=-0.11 throttle= 0.17
+heading=351.0 roll= 5.1 pitch=-2.1 => rudder= 0.13 elevator=-0.16 aileron=-0.10 throttle= 0.18
+heading=351.3 roll= 4.8 pitch=-2.1 => rudder= 0.13 elevator=-0.16 aileron=-0.10 throttle= 0.20
+heading=351.5 roll= 4.4 pitch=-2.1 => rudder= 0.13 elevator=-0.16 aileron=-0.09 throttle= 0.21
+heading=351.8 roll= 4.1 pitch=-2.1 => rudder= 0.13 elevator=-0.16 aileron=-0.08 throttle= 0.23
+heading=352.1 roll= 3.8 pitch=-2.1 => rudder= 0.09 elevator=-0.15 aileron=-0.08 throttle= 0.14
+heading=352.4 roll= 3.6 pitch=-2.1 => rudder= 0.08 elevator=-0.15 aileron=-0.07 throttle= 0.16
+heading=352.5 roll= 3.4 pitch=-2.0 => rudder= 0.08 elevator=-0.15 aileron=-0.07 throttle= 0.18
+heading=352.7 roll= 3.2 pitch=-2.0 => rudder= 0.08 elevator=-0.15 aileron=-0.06 throttle= 0.19
+heading=352.8 roll= 2.9 pitch=-2.0 => rudder= 0.08 elevator=-0.15 aileron=-0.06 throttle= 0.21
+heading=352.9 roll= 2.7 pitch=-2.0 => rudder= 0.09 elevator=-0.15 aileron=-0.05 throttle= 0.23
+heading=353.0 roll= 2.4 pitch=-2.0 => rudder= 0.09 elevator=-0.15 aileron=-0.05 throttle= 0.24
+heading=353.1 roll= 2.2 pitch=-2.0 => rudder= 0.05 elevator=-0.15 aileron=-0.04 throttle= 0.15
+heading=353.3 roll= 2.0 pitch=-1.9 => rudder= 0.05 elevator=-0.15 aileron=-0.04 throttle= 0.17
+heading=353.4 roll= 1.8 pitch=-1.9 => rudder= 0.05 elevator=-0.15 aileron=-0.04 throttle= 0.19
+heading=353.4 roll= 1.7 pitch=-1.9 => rudder= 0.05 elevator=-0.14 aileron=-0.03 throttle= 0.20
+heading=353.4 roll= 1.5 pitch=-1.9 => rudder= 0.06 elevator=-0.14 aileron=-0.03 throttle= 0.22
+heading=353.4 roll= 1.4 pitch=-1.9 => rudder= 0.06 elevator=-0.14 aileron=-0.03 throttle= 0.24
+heading=353.5 roll= 1.2 pitch=-1.9 => rudder= 0.06 elevator=-0.14 aileron=-0.02 throttle= 0.25
+heading=353.6 roll= 1.0 pitch=-1.8 => rudder= 0.07 elevator=-0.14 aileron=-0.02 throttle= 0.27
+heading=353.7 roll= 0.9 pitch=-1.8 => rudder= 0.02 elevator=-0.14 aileron=-0.02 throttle= 0.18
+heading=353.8 roll= 0.8 pitch=-1.8 => rudder= 0.02 elevator=-0.14 aileron=-0.02 throttle= 0.20
+heading=353.8 roll= 0.8 pitch=-1.8 => rudder= 0.03 elevator=-0.14 aileron=-0.02 throttle= 0.21
+heading=353.7 roll= 0.7 pitch=-1.8 => rudder= 0.03 elevator=-0.14 aileron=-0.01 throttle= 0.23
+heading=353.6 roll= 0.6 pitch=-1.8 => rudder= 0.04 elevator=-0.14 aileron=-0.01 throttle= 0.25
+heading=353.5 roll= 0.5 pitch=-1.7 => rudder= 0.05 elevator=-0.14 aileron=-0.01 throttle= 0.26
+heading=353.5 roll= 0.3 pitch=-1.7 => rudder= 0.05 elevator=-0.14 aileron=-0.01 throttle= 0.28
+heading=353.6 roll= 0.2 pitch=-1.7 => rudder= 0.02 elevator=-0.14 aileron=-0.00 throttle= 0.19
+heading=353.6 roll= 0.1 pitch=-1.7 => rudder= 0.02 elevator=-0.14 aileron=-0.00 throttle= 0.21
+heading=353.6 roll= 0.1 pitch=-1.7 => rudder= 0.02 elevator=-0.14 aileron=-0.00 throttle= 0.22
+heading=353.6 roll= 0.1 pitch=-1.7 => rudder= 0.02 elevator=-0.14 aileron=-0.00 throttle= 0.24
+heading=353.5 roll= 0.0 pitch=-1.6 => rudder= 0.03 elevator=-0.14 aileron=-0.00 throttle= 0.26
+heading=353.4 roll=-0.1 pitch=-1.6 => rudder= 0.04 elevator=-0.14 aileron= 0.00 throttle= 0.27
+heading=353.3 roll=-0.2 pitch=-1.6 => rudder= 0.04 elevator=-0.14 aileron= 0.00 throttle= 0.29
+heading=353.3 roll=-0.3 pitch=-1.5 => rudder= 0.01 elevator=-0.14 aileron= 0.01 throttle= 0.20
+heading=353.4 roll=-0.3 pitch=-1.5 => rudder= 0.01 elevator=-0.14 aileron= 0.01 throttle= 0.22
+heading=353.3 roll=-0.3 pitch=-1.4 => rudder= 0.02 elevator=-0.14 aileron= 0.01 throttle= 0.23
+heading=353.2 roll=-0.3 pitch=-1.4 => rudder= 0.02 elevator=-0.14 aileron= 0.01 throttle= 0.25
+heading=353.1 roll=-0.3 pitch=-1.4 => rudder= 0.03 elevator=-0.13 aileron= 0.01 throttle= 0.27
+heading=353.1 roll=-0.4 pitch=-1.3 => rudder= 0.04 elevator=-0.13 aileron= 0.01 throttle= 0.28
+heading=353.0 roll=-0.5 pitch=-1.3 => rudder= 0.01 elevator=-0.13 aileron= 0.01 throttle= 0.19
+heading=353.0 roll=-0.5 pitch=-1.3 => rudder= 0.01 elevator=-0.13 aileron= 0.01 throttle= 0.20
+heading=352.9 roll=-0.5 pitch=-1.2 => rudder= 0.02 elevator=-0.13 aileron= 0.01 throttle= 0.22
+heading=352.9 roll=-0.5 pitch=-1.2 => rudder= 0.02 elevator=-0.13 aileron= 0.01 throttle= 0.23
+heading=352.8 roll=-0.6 pitch=-1.2 => rudder= 0.03 elevator=-0.13 aileron= 0.01 throttle= 0.25
+heading=352.7 roll=-0.6 pitch=-1.2 => rudder= 0.03 elevator=-0.13 aileron= 0.01 throttle= 0.26
+heading=352.7 roll=-0.6 pitch=-1.1 => rudder= 0.04 elevator=-0.13 aileron= 0.01 throttle= 0.28
+heading=352.7 roll=-0.6 pitch=-1.1 => rudder= 0.01 elevator=-0.13 aileron= 0.01 throttle= 0.19
+heading=352.7 roll=-0.6 pitch=-1.1 => rudder= 0.02 elevator=-0.13 aileron= 0.01 throttle= 0.20
+heading=352.7 roll=-0.5 pitch=-1.1 => rudder= 0.02 elevator=-0.13 aileron= 0.01 throttle= 0.22
+heading=352.6 roll=-0.5 pitch=-1.1 => rudder= 0.03 elevator=-0.13 aileron= 0.01 throttle= 0.23
+heading=352.5 roll=-0.5 pitch=-1.0 => rudder= 0.03 elevator=-0.13 aileron= 0.01 throttle= 0.25
+heading=352.4 roll=-0.5 pitch=-1.0 => rudder= 0.04 elevator=-0.13 aileron= 0.01 throttle= 0.26
+heading=352.4 roll=-0.6 pitch=-1.0 => rudder= 0.04 elevator=-0.13 aileron= 0.01 throttle= 0.28
+heading=352.4 roll=-0.6 pitch=-1.0 => rudder= 0.02 elevator=-0.13 aileron= 0.01 throttle= 0.18
+heading=352.5 roll=-0.6 pitch=-0.9 => rudder= 0.02 elevator=-0.13 aileron= 0.01 throttle= 0.20
+heading=352.4 roll=-0.5 pitch=-0.9 => rudder= 0.02 elevator=-0.13 aileron= 0.01 throttle= 0.21
+heading=352.4 roll=-0.5 pitch=-0.9 => rudder= 0.03 elevator=-0.13 aileron= 0.01 throttle= 0.22
+heading=352.3 roll=-0.5 pitch=-0.9 => rudder= 0.03 elevator=-0.13 aileron= 0.01 throttle= 0.24
+heading=352.2 roll=-0.5 pitch=-0.9 => rudder= 0.04 elevator=-0.13 aileron= 0.01 throttle= 0.25
+heading=352.2 roll=-0.5 pitch=-0.9 => rudder= 0.04 elevator=-0.13 aileron= 0.01 throttle= 0.27
+heading=352.2 roll=-0.5 pitch=-0.8 => rudder= 0.02 elevator=-0.12 aileron= 0.01 throttle= 0.17
+heading=352.3 roll=-0.5 pitch=-0.8 => rudder= 0.02 elevator=-0.12 aileron= 0.01 throttle= 0.19
+heading=352.2 roll=-0.5 pitch=-0.8 => rudder= 0.02 elevator=-0.12 aileron= 0.01 throttle= 0.20
+heading=352.2 roll=-0.4 pitch=-0.8 => rudder= 0.03 elevator=-0.12 aileron= 0.01 throttle= 0.22
+heading=352.1 roll=-0.4 pitch=-0.8 => rudder= 0.03 elevator=-0.12 aileron= 0.01 throttle= 0.23
+heading=352.1 roll=-0.4 pitch=-0.8 => rudder= 0.04 elevator=-0.12 aileron= 0.01 throttle= 0.24
+heading=352.1 roll=-0.4 pitch=-0.8 => rudder= 0.02 elevator=-0.12 aileron= 0.01 throttle= 0.15
+heading=352.1 roll=-0.4 pitch=-0.8 => rudder= 0.02 elevator=-0.12 aileron= 0.01 throttle= 0.16
+heading=352.1 roll=-0.4 pitch=-0.8 => rudder= 0.03 elevator=-0.12 aileron= 0.01 throttle= 0.18
+heading=352.0 roll=-0.4 pitch=-0.8 => rudder= 0.03 elevator=-0.12 aileron= 0.01 throttle= 0.19
+heading=352.0 roll=-0.4 pitch=-0.8 => rudder= 0.03 elevator=-0.12 aileron= 0.01 throttle= 0.20
+heading=352.0 roll=-0.4 pitch=-0.8 => rudder= 0.04 elevator=-0.12 aileron= 0.01 throttle= 0.22
+heading=352.0 roll=-0.4 pitch=-0.7 => rudder= 0.04 elevator=-0.12 aileron= 0.01 throttle= 0.23
+heading=352.0 roll=-0.4 pitch=-0.7 => rudder= 0.12 elevator=-0.12 aileron= 0.01 throttle= 0.15
+heading=352.2 roll=-0.4 pitch=-0.7 => rudder= 0.12 elevator=-0.12 aileron= 0.01 throttle= 0.16
+heading=352.5 roll=-0.3 pitch=-0.7 => rudder= 0.10 elevator=-0.12 aileron= 0.01 throttle= 0.17
+heading=352.9 roll=-0.1 pitch=-0.7 => rudder= 0.09 elevator=-0.12 aileron= 0.00 throttle= 0.19
+heading=353.4 roll= 0.2 pitch=-0.7 => rudder= 0.07 elevator=-0.12 aileron=-0.00 throttle= 0.20
+heading=353.7 roll= 0.7 pitch=-0.7 => rudder= 0.06 elevator=-0.12 aileron=-0.01 throttle= 0.21
+heading=353.9 roll= 1.1 pitch=-0.8 => rudder= 0.20 elevator=-0.12 aileron=-0.02 throttle= 0.13
+heading=354.1 roll= 1.3 pitch=-0.8 => rudder= 0.20 elevator=-0.12 aileron=-0.03 throttle= 0.14
+heading=354.6 roll= 1.4 pitch=-0.8 => rudder= 0.19 elevator=-0.12 aileron=-0.03 throttle= 0.15
+heading=355.4 roll= 1.6 pitch=-0.8 => rudder= 0.16 elevator=-0.12 aileron=-0.03 throttle= 0.17
+heading=356.2 roll= 2.1 pitch=-0.9 => rudder= 0.13 elevator=-0.12 aileron=-0.04 throttle= 0.18
+heading=356.8 roll= 2.7 pitch=-0.9 => rudder= 0.11 elevator=-0.12 aileron=-0.05 throttle= 0.20
+heading=357.2 roll= 3.2 pitch=-1.0 => rudder= 0.10 elevator=-0.12 aileron=-0.06 throttle= 0.21
+heading=357.4 roll= 3.6 pitch=-1.0 => rudder= 0.29 elevator=-0.12 aileron=-0.07 throttle= 0.12
+heading=357.7 roll= 3.7 pitch=-1.0 => rudder= 0.30 elevator=-0.12 aileron=-0.07 throttle= 0.14
+heading=358.5 roll= 3.6 pitch=-1.1 => rudder= 0.27 elevator=-0.12 aileron=-0.07 throttle= 0.15
+heading=359.6 roll= 3.7 pitch=-1.1 => rudder= 0.23 elevator=-0.12 aileron=-0.07 throttle= 0.17
+heading=0.7 roll= 4.1 pitch=-1.2 => rudder= 0.19 elevator=-0.12 aileron=-0.08 throttle= 0.18
+heading=1.7 roll= 4.8 pitch=-1.3 => rudder= 0.16 elevator=-0.12 aileron=-0.10 throttle= 0.19
+heading=2.3 roll= 5.5 pitch=-1.4 => rudder= 0.15 elevator=-0.13 aileron=-0.11 throttle= 0.21
+heading=2.7 roll= 6.0 pitch=-1.4 => rudder= 0.37 elevator=-0.13 aileron=-0.12 throttle= 0.12
+heading=3.1 roll= 6.1 pitch=-1.4 => rudder= 0.37 elevator=-0.13 aileron=-0.12 throttle= 0.14
+heading=4.0 roll= 5.9 pitch=-1.5 => rudder= 0.34 elevator=-0.13 aileron=-0.12 throttle= 0.15
+heading=5.3 roll= 5.8 pitch=-1.6 => rudder= 0.30 elevator=-0.13 aileron=-0.12 throttle= 0.17
+heading=6.6 roll= 6.1 pitch=-1.7 => rudder= 0.25 elevator=-0.13 aileron=-0.12 throttle= 0.18
+heading=7.8 roll= 6.7 pitch=-1.8 => rudder= 0.22 elevator=-0.14 aileron=-0.13 throttle= 0.20
+heading=8.6 roll= 7.3 pitch=-1.8 => rudder= 0.19 elevator=-0.14 aileron=-0.15 throttle= 0.22
+heading=9.1 roll= 7.8 pitch=-1.8 => rudder= 0.40 elevator=-0.14 aileron=-0.16 throttle= 0.13
+heading=9.6 roll= 7.9 pitch=-1.7 => rudder= 0.40 elevator=-0.14 aileron=-0.16 throttle= 0.15
+heading=10.5 roll= 7.6 pitch=-1.8 => rudder= 0.40 elevator=-0.14 aileron=-0.15 throttle= 0.16
+heading=11.8 roll= 7.4 pitch=-1.8 => rudder= 0.37 elevator=-0.14 aileron=-0.15 throttle= 0.18
+heading=13.3 roll= 7.5 pitch=-1.9 => rudder= 0.32 elevator=-0.15 aileron=-0.15 throttle= 0.19
+heading=14.6 roll= 7.9 pitch=-2.0 => rudder= 0.28 elevator=-0.15 aileron=-0.16 throttle= 0.21
+heading=15.7 roll= 8.5 pitch=-2.0 => rudder= 0.25 elevator=-0.15 aileron=-0.17 throttle= 0.23
+heading=16.4 roll= 8.9 pitch=-1.9 => rudder= 0.40 elevator=-0.15 aileron=-0.18 throttle= 0.14
+heading=17.0 roll= 9.0 pitch=-1.9 => rudder= 0.40 elevator=-0.14 aileron=-0.18 throttle= 0.16
+heading=17.9 roll= 8.9 pitch=-1.9 => rudder= 0.40 elevator=-0.14 aileron=-0.18 throttle= 0.17
+heading=19.0 roll= 8.6 pitch=-1.9 => rudder= 0.40 elevator=-0.15 aileron=-0.17 throttle= 0.19
+heading=20.2 roll= 8.6 pitch=-2.0 => rudder= 0.40 elevator=-0.15 aileron=-0.17 throttle= 0.20
+heading=21.6 roll= 8.7 pitch=-2.0 => rudder= 0.36 elevator=-0.15 aileron=-0.17 throttle= 0.22
+heading=22.9 roll= 8.9 pitch=-2.1 => rudder= 0.40 elevator=-0.15 aileron=-0.18 throttle= 0.13
+heading=24.1 roll= 9.3 pitch=-2.1 => rudder= 0.40 elevator=-0.16 aileron=-0.19 throttle= 0.15
+heading=25.3 roll= 9.5 pitch=-2.1 => rudder= 0.40 elevator=-0.16 aileron=-0.19 throttle= 0.17
+heading=26.4 roll= 9.7 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.19 throttle= 0.18
+heading=27.5 roll= 9.9 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.20
+heading=28.6 roll= 9.9 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.21
+heading=29.7 roll= 10.0 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.23
+heading=30.9 roll= 10.0 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.15
+heading=32.0 roll= 10.0 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.16
+heading=33.1 roll= 10.0 pitch=-2.2 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.18
+heading=34.3 roll= 10.0 pitch=-2.3 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.19
+heading=35.5 roll= 10.0 pitch=-2.3 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.21
+heading=36.6 roll= 10.0 pitch=-2.3 => rudder= 0.40 elevator=-0.16 aileron=-0.20 throttle= 0.23
+heading=37.8 roll= 10.0 pitch=-2.3 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.24
+heading=39.0 roll= 10.0 pitch=-2.3 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.16
+heading=40.1 roll= 10.0 pitch=-2.3 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.17
+heading=41.2 roll= 10.0 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.19
+heading=42.3 roll= 10.0 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.21
+heading=43.5 roll= 9.9 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.22
+heading=44.6 roll= 9.9 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.24
+heading=45.7 roll= 9.9 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.26
+heading=46.8 roll= 9.9 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.27
+heading=47.9 roll= 9.9 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.19
+heading=49.0 roll= 9.9 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.21
+heading=50.2 roll= 9.9 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.22
+heading=51.4 roll= 9.8 pitch=-2.4 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.24
+heading=52.6 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.26
+heading=53.7 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.28
+heading=54.9 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.29
+heading=56.0 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.20
+heading=57.1 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.22
+heading=58.2 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.23
+heading=59.4 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.25
+heading=60.5 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.27
+heading=61.7 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.17 aileron=-0.20 throttle= 0.29
+heading=62.8 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.31
+heading=64.0 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.21
+heading=65.2 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.23
+heading=66.5 roll= 9.8 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.20 throttle= 0.25
+heading=67.7 roll= 9.7 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.19 throttle= 0.27
+heading=68.9 roll= 9.7 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.19 throttle= 0.29
+heading=70.1 roll= 9.7 pitch=-2.5 => rudder= 0.40 elevator=-0.18 aileron=-0.19 throttle= 0.31
+heading=71.2 roll= 9.7 pitch=-2.5 => rudder= 0.38 elevator=-0.18 aileron=-0.19 throttle= 0.33
+heading=72.4 roll= 9.7 pitch=-2.5 => rudder= 0.35 elevator=-0.18 aileron=-0.19 throttle= 0.35
+heading=73.5 roll= 9.8 pitch=-2.5 => rudder= 0.33 elevator=-0.18 aileron=-0.20 throttle= 0.26
+heading=74.5 roll= 9.7 pitch=-2.5 => rudder= 0.30 elevator=-0.17 aileron=-0.19 throttle= 0.28
+heading=75.4 roll= 9.6 pitch=-2.4 => rudder= 0.28 elevator=-0.17 aileron=-0.19 throttle= 0.30
+heading=76.2 roll= 9.4 pitch=-2.3 => rudder= 0.26 elevator=-0.17 aileron=-0.19 throttle= 0.32
+heading=76.8 roll= 9.1 pitch=-2.3 => rudder= 0.25 elevator=-0.16 aileron=-0.18 throttle= 0.33
+heading=77.4 roll= 8.6 pitch=-2.2 => rudder= 0.24 elevator=-0.16 aileron=-0.17 throttle= 0.35
+heading=78.0 roll= 8.1 pitch=-2.1 => rudder= 0.22 elevator=-0.16 aileron=-0.16 throttle= 0.37
+heading=78.6 roll= 7.5 pitch=-2.1 => rudder= 0.21 elevator=-0.16 aileron=-0.15 throttle= 0.39
+heading=79.1 roll= 7.0 pitch=-2.1 => rudder= 0.18 elevator=-0.15 aileron=-0.14 throttle= 0.30
+heading=79.7 roll= 6.6 pitch=-2.1 => rudder= 0.16 elevator=-0.15 aileron=-0.13 throttle= 0.32
+heading=80.1 roll= 6.2 pitch=-2.0 => rudder= 0.15 elevator=-0.15 aileron=-0.12 throttle= 0.34
+heading=80.5 roll= 5.8 pitch=-2.0 => rudder= 0.14 elevator=-0.15 aileron=-0.12 throttle= 0.36
+heading=80.8 roll= 5.4 pitch=-1.9 => rudder= 0.14 elevator=-0.15 aileron=-0.11 throttle= 0.38
+heading=81.1 roll= 5.0 pitch=-1.9 => rudder= 0.13 elevator=-0.15 aileron=-0.10 throttle= 0.40
+heading=81.4 roll= 4.5 pitch=-1.9 => rudder= 0.13 elevator=-0.14 aileron=-0.09 throttle= 0.42
+heading=81.7 roll= 4.0 pitch=-1.9 => rudder= 0.12 elevator=-0.14 aileron=-0.08 throttle= 0.44
+heading=82.0 roll= 3.6 pitch=-1.8 => rudder= 0.08 elevator=-0.14 aileron=-0.07 throttle= 0.36
+heading=82.2 roll= 3.4 pitch=-1.8 => rudder= 0.07 elevator=-0.14 aileron=-0.07 throttle= 0.38
+heading=82.4 roll= 3.1 pitch=-1.7 => rudder= 0.07 elevator=-0.14 aileron=-0.06 throttle= 0.40
+heading=82.4 roll= 2.8 pitch=-1.7 => rudder= 0.07 elevator=-0.13 aileron=-0.06 throttle= 0.42
+heading=82.4 roll= 2.5 pitch=-1.7 => rudder= 0.07 elevator=-0.13 aileron=-0.05 throttle= 0.44
+heading=82.4 roll= 2.1 pitch=-1.6 => rudder= 0.08 elevator=-0.13 aileron=-0.04 throttle= 0.46
+heading=82.5 roll= 1.7 pitch=-1.6 => rudder= 0.08 elevator=-0.13 aileron=-0.03 throttle= 0.48
+heading=82.6 roll= 1.4 pitch=-1.6 => rudder= 0.04 elevator=-0.13 aileron=-0.03 throttle= 0.39
+heading=82.7 roll= 1.1 pitch=-1.6 => rudder= 0.03 elevator=-0.13 aileron=-0.02 throttle= 0.41
+heading=82.7 roll= 1.0 pitch=-1.5 => rudder= 0.03 elevator=-0.13 aileron=-0.02 throttle= 0.43
+heading=82.6 roll= 0.8 pitch=-1.5 => rudder= 0.03 elevator=-0.13 aileron=-0.02 throttle= 0.45
+heading=82.5 roll= 0.6 pitch=-1.4 => rudder= 0.04 elevator=-0.13 aileron=-0.01 throttle= 0.47
+heading=82.4 roll= 0.3 pitch=-1.3 => rudder= 0.04 elevator=-0.13 aileron=-0.01 throttle= 0.49
+heading=82.4 roll= 0.1 pitch=-1.2 => rudder= 0.05 elevator=-0.13 aileron=-0.00 throttle= 0.51
+heading=82.4 roll=-0.1 pitch=-1.1 => rudder= 0.04 elevator=-0.13 aileron= 0.00 throttle= 0.52
+heading=82.4 roll=-0.3 pitch=-1.1 => rudder= 0.01 elevator=-0.13 aileron= 0.01 throttle= 0.44
+heading=82.4 roll=-0.4 pitch=-0.9 => rudder= 0.01 elevator=-0.13 aileron= 0.01 throttle= 0.45
+heading=82.3 roll=-0.4 pitch=-0.8 => rudder= 0.01 elevator=-0.12 aileron= 0.01 throttle= 0.47
+heading=82.1 roll=-0.5 pitch=-0.7 => rudder= 0.02 elevator=-0.12 aileron= 0.01 throttle= 0.49
+heading=81.9 roll=-0.6 pitch=-0.6 => rudder= 0.03 elevator=-0.12 aileron= 0.01 throttle= 0.50
+heading=81.7 roll=-0.8 pitch=-0.5 => rudder= 0.03 elevator=-0.12 aileron= 0.02 throttle= 0.52
+heading=81.6 roll=-1.0 pitch=-0.5 => rudder= 0.04 elevator=-0.12 aileron= 0.02 throttle= 0.54
+heading=81.5 roll=-1.2 pitch=-0.4 => rudder= 0.02 elevator=-0.12 aileron= 0.02 throttle= 0.45
+heading=81.5 roll=-1.2 pitch=-0.3 => rudder= 0.02 elevator=-0.11 aileron= 0.02 throttle= 0.46
+heading=81.4 roll=-1.2 pitch=-0.2 => rudder= 0.02 elevator=-0.11 aileron= 0.02 throttle= 0.47
+heading=81.2 roll=-1.2 pitch=-0.1 => rudder= 0.02 elevator=-0.11 aileron= 0.02 throttle= 0.49
+heading=81.1 roll=-1.3 pitch=-0.0 => rudder= 0.03 elevator=-0.11 aileron= 0.03 throttle= 0.50
+heading=80.9 roll=-1.3 pitch= 0.0 => rudder= 0.03 elevator=-0.11 aileron= 0.03 throttle= 0.52
+heading=80.8 roll=-1.4 pitch= 0.1 => rudder= 0.03 elevator=-0.11 aileron= 0.03 throttle= 0.53
+heading=80.7 roll=-1.5 pitch= 0.2 => rudder= 0.03 elevator=-0.11 aileron= 0.03 throttle= 0.44
+heading=80.6 roll=-1.5 pitch= 0.2 => rudder= 0.03 elevator=-0.10 aileron= 0.03 throttle= 0.45
+heading=80.5 roll=-1.5 pitch= 0.3 => rudder= 0.03 elevator=-0.10 aileron= 0.03 throttle= 0.46
+heading=80.4 roll=-1.4 pitch= 0.3 => rudder= 0.03 elevator=-0.10 aileron= 0.03 throttle= 0.48
+heading=80.3 roll=-1.4 pitch= 0.4 => rudder= 0.04 elevator=-0.10 aileron= 0.03 throttle= 0.49
+heading=80.1 roll=-1.4 pitch= 0.4 => rudder= 0.04 elevator=-0.10 aileron= 0.03 throttle= 0.50
+heading=80.1 roll=-1.4 pitch= 0.4 => rudder= 0.04 elevator=-0.10 aileron= 0.03 throttle= 0.51
+heading=80.0 roll=-1.4 pitch= 0.5 => rudder= 0.04 elevator=-0.10 aileron= 0.03 throttle= 0.42
+heading=79.9 roll=-1.4 pitch= 0.5 => rudder= 0.04 elevator=-0.10 aileron= 0.03 throttle= 0.43
+heading=79.9 roll=-1.3 pitch= 0.5 => rudder= 0.04 elevator=-0.10 aileron= 0.03 throttle= 0.44
+heading=79.8 roll=-1.3 pitch= 0.5 => rudder= 0.04 elevator=-0.10 aileron= 0.03 throttle= 0.45
+heading=79.8 roll=-1.2 pitch= 0.5 => rudder= 0.04 elevator=-0.10 aileron= 0.02 throttle= 0.47
+heading=79.7 roll=-1.1 pitch= 0.6 => rudder= 0.04 elevator=-0.10 aileron= 0.02 throttle= 0.48
+heading=79.6 roll=-1.1 pitch= 0.6 => rudder= 0.04 elevator=-0.10 aileron= 0.02 throttle= 0.49
+heading=79.6 roll=-1.0 pitch= 0.6 => rudder= 0.05 elevator=-0.10 aileron= 0.02 throttle= 0.39
+heading=79.5 roll=-1.0 pitch= 0.6 => rudder= 0.05 elevator=-0.10 aileron= 0.02 throttle= 0.40
+heading=79.5 roll=-1.0 pitch= 0.6 => rudder= 0.05 elevator=-0.10 aileron= 0.02 throttle= 0.41
+heading=79.5 roll=-0.9 pitch= 0.6 => rudder= 0.05 elevator=-0.10 aileron= 0.02 throttle= 0.42
+heading=79.5 roll=-0.8 pitch= 0.6 => rudder= 0.05 elevator=-0.10 aileron= 0.02 throttle= 0.44
+heading=79.5 roll=-0.8 pitch= 0.6 => rudder= 0.04 elevator=-0.10 aileron= 0.02 throttle= 0.45
+heading=79.5 roll=-0.7 pitch= 0.6 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.46
+heading=79.5 roll=-0.6 pitch= 0.6 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.36
+heading=79.4 roll=-0.6 pitch= 0.5 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.37
+heading=79.5 roll=-0.6 pitch= 0.5 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.39
+heading=79.5 roll=-0.6 pitch= 0.5 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.40
+heading=79.5 roll=-0.5 pitch= 0.5 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.41
+heading=79.6 roll=-0.4 pitch= 0.5 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.42
+heading=79.6 roll=-0.4 pitch= 0.4 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.43
+heading=79.5 roll=-0.3 pitch= 0.4 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.34
+heading=79.5 roll=-0.3 pitch= 0.4 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.35
+heading=79.6 roll=-0.3 pitch= 0.4 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.36
+heading=79.6 roll=-0.3 pitch= 0.4 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.37
+heading=79.6 roll=-0.3 pitch= 0.3 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.38
+heading=79.7 roll=-0.2 pitch= 0.3 => rudder= 0.04 elevator=-0.10 aileron= 0.00 throttle= 0.39
+heading=79.7 roll=-0.2 pitch= 0.3 => rudder= 0.04 elevator=-0.10 aileron= 0.00 throttle= 0.39
+heading=79.7 roll=-0.2 pitch= 0.2 => rudder= 0.05 elevator=-0.10 aileron= 0.00 throttle= 0.31
+heading=79.7 roll=-0.2 pitch= 0.2 => rudder= 0.05 elevator=-0.10 aileron= 0.00 throttle= 0.33
+heading=79.7 roll=-0.2 pitch= 0.2 => rudder= 0.05 elevator=-0.10 aileron= 0.00 throttle= 0.34
+heading=79.8 roll=-0.2 pitch= 0.2 => rudder= 0.04 elevator=-0.10 aileron= 0.00 throttle= 0.35
+heading=79.8 roll=-0.2 pitch= 0.1 => rudder= 0.04 elevator=-0.10 aileron= 0.00 throttle= 0.37
+heading=79.8 roll=-0.2 pitch= 0.1 => rudder= 0.04 elevator=-0.10 aileron= 0.00 throttle= 0.38
+heading=79.8 roll=-0.1 pitch= 0.1 => rudder= 0.05 elevator=-0.10 aileron= 0.00 throttle= 0.39
+heading=79.8 roll=-0.2 pitch= 0.1 => rudder= 0.05 elevator=-0.10 aileron= 0.00 throttle= 0.41
+heading=79.8 roll=-0.2 pitch= 0.0 => rudder= 0.04 elevator=-0.10 aileron= 0.00 throttle= 0.42
+heading=79.9 roll=-0.2 pitch= 0.0 => rudder= 0.04 elevator=-0.10 aileron= 0.00 throttle= 0.43
+heading=79.9 roll=-0.2 pitch= 0.0 => rudder= 0.04 elevator=-0.11 aileron= 0.00 throttle= 0.45
+heading=79.9 roll=-0.2 pitch= 0.0 => rudder= 0.04 elevator=-0.11 aileron= 0.00 throttle= 0.46
+heading=79.9 roll=-0.2 pitch= 0.0 => rudder= 0.04 elevator=-0.11 aileron= 0.00 throttle= 0.47
+heading=79.9 roll=-0.2 pitch= 0.0 => rudder= 0.04 elevator=-0.11 aileron= 0.00 throttle= 0.49
+heading=79.9 roll=-0.3 pitch= 0.0 => rudder= 0.04 elevator=-0.11 aileron= 0.01 throttle= 0.50
+heading=79.9 roll=-0.3 pitch= 0.0 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.51
+heading=79.9 roll=-0.4 pitch= 0.1 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.53
+heading=79.8 roll=-0.4 pitch= 0.1 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.54
+heading=79.8 roll=-0.4 pitch= 0.2 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.55
+heading=79.8 roll=-0.5 pitch= 0.2 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.57
+heading=79.8 roll=-0.5 pitch= 0.3 => rudder= 0.04 elevator=-0.10 aileron= 0.01 throttle= 0.58
+heading=79.8 roll=-0.6 pitch= 0.3 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.59
+heading=79.7 roll=-0.6 pitch= 0.4 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.60
+heading=79.7 roll=-0.7 pitch= 0.5 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.61
+heading=79.7 roll=-0.7 pitch= 0.6 => rudder= 0.05 elevator=-0.10 aileron= 0.01 throttle= 0.63
+heading=79.6 roll=-0.8 pitch= 0.7 => rudder= 0.05 elevator=-0.09 aileron= 0.02 throttle= 0.64
+heading=79.6 roll=-0.8 pitch= 0.8 => rudder= 0.06 elevator=-0.09 aileron= 0.02 throttle= 0.65
+heading=79.5 roll=-0.8 pitch= 0.9 => rudder= 0.06 elevator=-0.09 aileron= 0.02 throttle= 0.66
+heading=79.5 roll=-0.9 pitch= 1.1 => rudder= 0.06 elevator=-0.08 aileron= 0.02 throttle= 0.67
+heading=79.4 roll=-0.9 pitch= 1.3 => rudder= 0.07 elevator=-0.08 aileron= 0.02 throttle= 0.67
+heading=79.4 roll=-1.0 pitch= 1.5 => rudder= 0.07 elevator=-0.08 aileron= 0.02 throttle= 0.68
+heading=79.4 roll= 0.0 pitch= 4.2 => rudder= 0.08 elevator= 0.06 aileron=-0.00 throttle= 0.69
+heading=79.5 roll= 0.5 pitch= 5.2 => rudder= 0.07 elevator= 0.11 aileron=-0.01 throttle= 0.68
+heading=79.7 roll= 0.3 pitch= 3.0 => rudder= 0.06 elevator= 0.00 aileron=-0.01 throttle= 0.00
+heading=79.9 roll= 0.2 pitch= 1.5 => rudder= 0.05 elevator=-0.08 aileron=-0.00 throttle= 0.00
+heading=80.0 roll= 0.1 pitch= 2.1 => rudder= 0.05 elevator=-0.05 aileron=-0.00 throttle= 0.00
+heading=80.2 roll= 0.2 pitch= 2.9 => rudder= 0.04 elevator=-0.01 aileron=-0.00 throttle= 0.00
+heading=80.2 roll= 0.2 pitch= 2.7 => rudder= 0.04 elevator=-0.02 aileron=-0.00 throttle= 0.00
+heading=80.1 roll= 0.2 pitch= 2.1 => rudder= 0.04 elevator=-0.05 aileron=-0.00 throttle= 0.00
+heading=79.9 roll= 0.2 pitch= 3.4 => rudder= 0.05 elevator= 0.02 aileron=-0.00 throttle= 0.00
+heading=79.8 roll= 0.1 pitch= 3.4 => rudder= 0.06 elevator= 0.03 aileron=-0.00 throttle= 0.00
+done!

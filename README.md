@@ -3,6 +3,14 @@
    Surveillez ce fichier README car s'il y a des changements pendant le Hackathon
    nous les annoncerons ici.
 
+## NOUVEAU!
+
+Allez voir le fichier `LOWI_08_circuit.log` qui donne une trace d'un vol
+complété correctement avec, à chaque 0.2 seconde, les valeurs de `instruments.heading`,
+`instruments.roll`, `instruments.pitch`, ainsi que ce qui est envoyé vers le simulateur
+pour `controls.rudder`, `controls.elevator`, `controls.aileron`, et `controls.throttle`.
+Ça devrait vous donner une meilleure idée de la relation entre `instruments` et `controls`,
+et l'ampleur et le signe des valeurs dans `controls`.
 
 ## Références de base
 
