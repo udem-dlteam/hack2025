@@ -12,7 +12,7 @@ sim_connect()
 
 t = 0
 
-while t < 100:
+while t < 120:
 
     print('******** t =', t)
 
@@ -38,6 +38,9 @@ while t < 100:
     elif t == 60:  # when we have some speed, up elevator!
         controls.elevator = -0.2
         send_controls()
+
+    elif t == 100:
+        reset_aircraft('LOWI', '08')
 
     time.sleep(0.5)
     t += 1
