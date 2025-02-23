@@ -262,7 +262,16 @@ class WebServer(http.server.BaseHTTPRequestHandler):
         pass
 
 
+def kill_server(server_thread):
+    i = input("Enter 'q' to quit: ")
+    if i == "q" or i == "Q":
+        server_thread.shutdown()
+        print("Server shutting down...")
+        os._exit(0)
+
+
 def main():
+    threads = []
 
     def open_browser():
         time.sleep(0.2)
@@ -271,13 +280,28 @@ def main():
             print("========== opening " + url)
         webbrowser.open_new(url)
 
-    t = threading.Thread(target=open_browser)
+    t = threading.Thread(target=open_browser, daemon=True)
     t.start()
+    threads.append(t)
 
-    t = threading.Thread(target=periodic_update)
+    t = threading.Thread(target=periodic_update, daemon=True)
     t.start()
+    threads.append(t)
 
-    http.server.ThreadingHTTPServer(("", port), WebServer).serve_forever()
+    server_thread = http.server.ThreadingHTTPServer(("", port), WebServer)
+
+    # Start the kill_server thread before starting the server
+    t = threading.Thread(target=kill_server, args=(server_thread,), daemon=True)
+    t.start()
+    threads.append(t)
+
+    # Run the server in its own thread so it doesn't block
+    t = threading.Thread(target=server_thread.serve_forever, daemon=True)
+    t.start()
+    threads.append(t)
+
+    for t in threads:
+        t.join()
 
 
 def cli():
